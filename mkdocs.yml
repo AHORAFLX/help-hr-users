@@ -117,10 +117,14 @@ markdown_extensions:
 plugins:
   - search
   - i18n:
-      default_language: es
       languages:
-        en: English
-        es: Español
+        - locale: es
+          name: Español
+          build: true
+          default: true
+        - locale: en
+          name: English
+          build: true
   - glightbox:
       touchNavigation: true
       loop: false
