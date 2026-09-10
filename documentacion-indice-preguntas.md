@@ -26,7 +26,7 @@ modo PRO.
 - ¿Quién valida mis instancias?
 - ¿Qué tipos de instancias hay?
 
-## 03 · Fichajes
+## 03 · Fichajes (hecho)
 
 - ¿Desde dónde puedo fichar?
 - ¿Cómo ficho si estoy en la oficina, en remoto o de viaje?

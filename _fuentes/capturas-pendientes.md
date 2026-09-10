@@ -20,3 +20,5 @@ son de la interfaz anterior.
 | `fichajes` | ¿Cómo veo mis horas totales? | Resumen mensual: gráfico de porcentaje cumplido y desglose de horas | Pendiente |
 | `fichajes` | ¿Cómo veo la página de fichajes del día? | Ventana de detalle del día con la lista de fichajes de esa jornada | Pendiente |
 | `fichajes` | ¿Cómo reporto/corrijo un fichaje…? | Formulario de solicitud de modificación de fichaje, con el campo de comentario | Pendiente |
+| `instancias-y-solicitudes` | ¿Cómo envío una instancia/solicitud a RRHH? | Menú desplegable del botón **+** de la pantalla de inicio, con las opciones de nueva petición | Pendiente |
+| `instancias-y-solicitudes` | ¿Cómo veo el estado de mis solicitudes pendientes? | Listado de **Instancias** del empleado con las etiquetas de estado en color | Pendiente |
