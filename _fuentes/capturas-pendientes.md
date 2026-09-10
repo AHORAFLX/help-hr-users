@@ -27,3 +27,6 @@ son de la interfaz anterior.
 | `ausencias-y-vacaciones` | ¿Cuántos días de vacaciones me quedan…? | Resumen del total de vacaciones: bloques **Vacaciones**, **Ausencias** y **Detalle** | Pendiente |
 | `ausencias-y-vacaciones` | ¿Puedo eliminar unas vacaciones ya aprobadas? | Formulario **Cancelar vacaciones/ausencias** con el interruptor de todos los días entre fechas | Pendiente |
 | `ausencias-y-vacaciones` | ¿Puedo adjuntar documentos a una ausencia? | Panel de detalle de un día de ausencia con **Subir documentos** y el contador **Documentos** | Pendiente |
+| `planificacion` | ¿Cómo veo mi turno de esta semana o este mes? / Esta semana | Bloque **Planificación de la semana** de la pantalla de inicio, con una tarjeta por día y el día de hoy marcado | Pendiente |
+| `planificacion` | ¿Cómo veo mi turno…? / Este mes | Calendario mensual de planificación del **Área personal**, con varios turnos y algún día de vacaciones | Pendiente |
+| `planificacion` | ¿Qué es exactamente mi planificación? / Mi horario personal | Pantalla **Planificación exclusiva** con los bloques **Horario personal** y **Turnos exclusivos** | Pendiente |

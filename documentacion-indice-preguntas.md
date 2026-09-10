@@ -19,7 +19,7 @@ modo PRO.
 - ¿Que son las evaluaciones de desempeño?
 
 
-## 02 · Instancias y solicitudes
+## 02 · Instancias y solicitudes (Hecho)
 
 - ¿Cómo envío una instancia/solicitud a RRHH (certificado, cambio de datos, etc.)?
 - ¿Cómo veo el estado de mis solicitudes pendientes?
@@ -37,7 +37,7 @@ modo PRO.
 - ¿Cómo veo la página de fichajes del día?
 - ¿Cómo reporto/corrijo un fichaje que quedó mal registrado (falta salida, hora errónea)?
 
-## 04 · Ausencias y vacaciones
+## 04 · Ausencias y vacaciones (Hecho)
 
 - ¿Cómo solicito vacaciones o ausencias?
 - ¿Cuántos días de vacaciones me quedan / cuántos he disfrutado?
@@ -45,7 +45,7 @@ modo PRO.
 - ¿Puedo eliminar unas vacaciones ya aprobadas?
 - ¿Puedo adjuntar documentos a una ausencia?
 
-## 05 · Planificación
+## 05 · Planificación (Hecho)
 
 - ¿Cómo veo mi turno de esta semana o este mes?
 - ¿Qué es exactamente mi planificación?
