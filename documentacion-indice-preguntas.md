@@ -57,7 +57,7 @@ modo PRO.
 - ¿Puedo tener varios contratos?
 - ¿Cuándo termina mi periodo de prueba o mi contrato temporal?
 
-## 07 · Equipos y estructura corporativa
+## 07 · Equipos y estructura corporativa - Falta unidades orgs
 
 - ¿Quién es mi responsable y qué significa?
 - ¿A qué equipo pertenezco?

@@ -32,3 +32,5 @@ son de la interfaz anterior.
 | `planificacion` | ¿Qué es exactamente mi planificación? / Mi horario personal | Pantalla **Planificación exclusiva** con los bloques **Horario personal** y **Turnos exclusivos** | Pendiente |
 | `mi-contrato-y-datos-laborales` | ¿Cómo consulto mi contrato actual? | Listado de **Contratos** del **Área personal**, con el contrato **En curso** y alguno finalizado | Pendiente |
 | `mi-contrato-y-datos-laborales` | ¿Cómo consulto mi contrato actual? | Detalle de un contrato con el bloque de datos laborales y el bloque **Salario** | Pendiente |
+| `equipos-y-estructura-corporativa` | ¿A qué equipo pertenezco? | Listado de **Equipos** del **Área personal**, con una tarjeta que muestre el nombre, el número de miembros y la lista de personas | Pendiente |
+| `equipos-y-estructura-corporativa` | ¿Cómo veo el organigrama / estructura corporativa? | Pantalla **Estructura corporativa** con varios niveles del organigrama desplegados | Pendiente |
