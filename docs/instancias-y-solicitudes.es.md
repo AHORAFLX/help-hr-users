@@ -10,7 +10,7 @@ quién tiene que darle el visto bueno.
 
 ## ¿Cómo envío una instancia/solicitud a RRHH (certificado, cambio de datos, etc.)?
 
-Desde el botón **+** de tu pantalla de inicio. Al pulsarlo se despliega un menú con
+Desde el botón **+** de tu la tarjeta "Mis instancias" en pantalla de inicio. Al pulsarlo se despliega un menú con
 las peticiones que puedes enviar:
 
 - **Nueva solicitud** — la vía general para pedir algo a Recursos Humanos, como un
