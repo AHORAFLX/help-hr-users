@@ -9,7 +9,7 @@ En este artículo verás dónde consultar tu turno, qué significa exactamente t
 planificación y en qué se diferencian las horas planificadas, las teóricas y las
 trabajadas.
 
-## ¿Cómo veo mi turno de esta semana o este mes?
+## ¿Cómo veo que turno tengo?
 
 Tienes dos vistas: una para la semana en curso y otra para el mes completo.
 
