@@ -41,6 +41,7 @@ modo PRO.
 
 - ¿Cómo solicito vacaciones o ausencias?
 - ¿Cuántos días de vacaciones me quedan / cuántos he disfrutado?
+- Los días de vacaciones que me sobraron el año pasado, ¿los puedo usar este año?
 - ¿Puedo eliminar unas vacaciones ya aprobadas?
 - ¿Puedo adjuntar documentos a una ausencia?
 

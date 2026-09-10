@@ -42,6 +42,13 @@ preguntar y no las contradigas con lo que veas en el código.**
   contadores de incidencias).
 - En **`instancias-y-solicitudes`**, el apartado *¿Quién valida mis instancias?* tiene
   que explicar que **es un flujo configurable**.
+- **Las vacaciones del año anterior se gastan primero.** Todos los días de vacaciones
+  están en la misma bolsa y se descuentan empezando por los del año anterior mientras
+  queden. Para el empleado **no hay solicitud aparte ni tipo de ausencia distinto**: aunque
+  en `Holidays_Types` exista el tipo *Vacaciones del año anterior*, no se documenta como
+  algo que el empleado tenga que elegir.
+- **En el calendario anual se puede pulsar directamente el día** en el que quieres pedir
+  la ausencia, además del botón **Nueva ausencia**.
 
 ## Fuentes transversales
 

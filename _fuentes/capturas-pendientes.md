@@ -22,3 +22,8 @@ son de la interfaz anterior.
 | `fichajes` | ¿Cómo reporto/corrijo un fichaje…? | Formulario de solicitud de modificación de fichaje, con el campo de comentario | Pendiente |
 | `instancias-y-solicitudes` | ¿Cómo envío una instancia/solicitud a RRHH? | Menú desplegable del botón **+** de la pantalla de inicio, con las opciones de nueva petición | Pendiente |
 | `instancias-y-solicitudes` | ¿Cómo veo el estado de mis solicitudes pendientes? | Listado de **Instancias** del empleado con las etiquetas de estado en color | Pendiente |
+| `ausencias-y-vacaciones` | ¿Cómo solicito vacaciones o ausencias? | Formulario **Nuevas vacaciones o ausencia** con los campos de tipo, fechas y razón | Pendiente |
+| `ausencias-y-vacaciones` | ¿Cómo solicito…? / Cómo leer el calendario | Calendario anual de **Ausencias y vacaciones** con el desplegable **Leyenda** abierto | Pendiente |
+| `ausencias-y-vacaciones` | ¿Cuántos días de vacaciones me quedan…? | Resumen del total de vacaciones: bloques **Vacaciones**, **Ausencias** y **Detalle** | Pendiente |
+| `ausencias-y-vacaciones` | ¿Puedo eliminar unas vacaciones ya aprobadas? | Formulario **Cancelar vacaciones/ausencias** con el interruptor de todos los días entre fechas | Pendiente |
+| `ausencias-y-vacaciones` | ¿Puedo adjuntar documentos a una ausencia? | Panel de detalle de un día de ausencia con **Subir documentos** y el contador **Documentos** | Pendiente |

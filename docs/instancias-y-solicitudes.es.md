@@ -8,6 +8,30 @@ así que puedes seguirlas en cualquier momento y queda constancia de quién las 
 En este artículo verás cómo enviar una instancia, dónde consultar en qué punto está y
 quién tiene que darle el visto bueno.
 
+
+## ¿Qué tipos de instancias hay?
+
+Hay dos grupos: los que trae Sebastian HR y los que define tu empresa.
+
+### Los tipos que trae el producto
+
+| Para qué sirve | Desde dónde se envía |
+|---|---|
+| Cambiar tus datos personales | Botón **+ > Cambiar datos personales** |
+| Añadir un fichaje que falta | Botón **+ > Nuevo fichaje** |
+| Corregir o anular un fichaje mal registrado | Botón **+ > Modificar fichaje** |
+| Pedir vacaciones | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
+| Pedir una ausencia | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
+| Anular unas vacaciones o una ausencia ya concedidas | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
+
+### Los tipos que define tu empresa
+
+Son los **tipos de solicitud**, y los eliges en el desplegable **Tipo** al enviar una
+**Nueva solicitud**. Cada empresa monta los suyos según lo que su plantilla necesita
+pedir a Recursos Humanos —certificados, cambios de situación, peticiones de material—,
+así que la lista que veas tú no tiene por qué coincidir con la de otra empresa.
+
+
 ## ¿Cómo envío una instancia/solicitud a RRHH (certificado, cambio de datos, etc.)?
 
 Desde el botón **+** de tu la tarjeta "Mis instancias" en pantalla de inicio. Al pulsarlo se despliega un menú con
@@ -18,6 +42,11 @@ las peticiones que puedes enviar:
 - **Cambiar datos personales** — para pedir que se corrijan tus datos.
 - **Nuevo fichaje** y **Modificar fichaje** — para corregir tus fichajes. Los tienes
   explicados en [Fichajes](fichajes.md).
+
+
+
+### Solicitudes
+
 
 Para enviar una solicitud a Recursos Humanos:
 
@@ -39,7 +68,7 @@ Las vacaciones y las ausencias no se piden desde aquí, aunque también generan 
 instancia: consulta
 [Ausencias y vacaciones](ausencias-y-vacaciones.md).
 
-## ¿Cómo veo el estado de mis solicitudes pendientes?
+## ¿Cómo veo el estado de mis instancias pendientes?
 
 Ve a **Área personal > Instancias**. Verás una fila por cada petición que has enviado,
 con el tipo, la fecha y una etiqueta de color con su estado:
@@ -103,27 +132,6 @@ toca el turno.
 Si eres tú quien valida las instancias de otras personas, las tienes agrupadas en la
 tarjeta de instancias de tu pantalla de inicio, en el contador **Administrar**.
 
-## ¿Qué tipos de instancias hay?
-
-Hay dos grupos: los que trae Sebastian HR y los que define tu empresa.
-
-### Los tipos que trae el producto
-
-| Para qué sirve | Desde dónde se envía |
-|---|---|
-| Cambiar tus datos personales | Botón **+ > Cambiar datos personales** |
-| Añadir un fichaje que falta | Botón **+ > Nuevo fichaje** |
-| Corregir o anular un fichaje mal registrado | Botón **+ > Modificar fichaje** |
-| Pedir vacaciones | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
-| Pedir una ausencia | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
-| Anular unas vacaciones o una ausencia ya concedidas | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
-
-### Los tipos que define tu empresa
-
-Son los **tipos de solicitud**, y los eliges en el desplegable **Tipo** al enviar una
-**Nueva solicitud**. Cada empresa monta los suyos según lo que su plantilla necesita
-pedir a Recursos Humanos —certificados, cambios de situación, peticiones de material—,
-así que la lista que veas tú no tiene por qué coincidir con la de otra empresa.
 
 <!-- PENDIENTE: en la base de datos los nombres de los tipos de instancia y de los estados están guardados en inglés (Vacation Request, Add Time Record, Pending, Approved, Denied) y el listado no los pasa por el traductor. ¿Cómo se ven realmente en pantalla? Si salen en inglés, hay que escribirlos tal cual en este artículo y abrir la incidencia de traducción. -->
 
