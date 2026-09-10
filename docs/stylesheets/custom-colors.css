@@ -2,12 +2,12 @@
 Primary Colors (The ones from who the rest of the theme is built, but you could change the rest on the Advanced Colors region)*/
 :root  > * {
   /* Custom Colors */
-  --fh-identity-color: #1e2569; /* The branding color that'll appear on the top bar and be used for links */
+  --fh-identity-color: #273347; /* The branding color that'll appear on the top bar and be used for links */
   --fh-color-section: #f5f7f8; /* Background color of the 3 main blocks (left sidebar, main content, right sidebar)  */
   --fh-color-background: #e9ecef; /* Bacground color for the <main> (the background that's bellow the 3 main blocks) */
   --fh-color-border: #cfd4d9; /* Border color */
   --fh-color-text: white; /* Text color to use for  background with fh-identity-color*/
-  --fh-identity-color-accent: #727ffd; /* Used in borders of buttons or on dark mode to make visible links <a>*/
+  --fh-identity-color-accent: #11b6db; /* Used in borders of buttons or on dark mode to make visible links <a>*/
 
   /* Material Theme Color Personalization */
   --md-default-fg-color: #555e68; /* Color for <body> (most of the texts) */
