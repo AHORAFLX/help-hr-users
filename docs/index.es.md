@@ -33,7 +33,7 @@ Todo lo relacionado con el registro de tu jornada, tu turno y tus horas.
 Tu información personal, laboral y la documentación que te afecta.
 
 - [Área personal](area-personal.md) — tus documentos (nóminas, certificados, evidencias
-  de firma), tus habilidades y tu planificación del mes.
+  de firma), tus habilidades, tu planificación del mes y tus evaluaciones de desempeño.
 - [Mi contrato y datos laborales](mi-contrato-y-datos-laborales.md) — consultar tu
   contrato actual y saber cuándo termina tu periodo de prueba o tu contrato temporal.
 

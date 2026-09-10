@@ -20,6 +20,29 @@ Las rutas de esta página son relativas a la raíz del repo de producto
 `_fuentes/rutas-menu.md` marca los nodos **deshabilitados** (⛔). No los documentes
 como disponibles: no se ven en la aplicación.
 
+## Correcciones confirmadas (mandan sobre el código)
+
+Respuestas ya dadas por la responsable de la documentación. **No las vuelvas a
+preguntar y no las contradigas con lo que veas en el código.**
+
+- **`Workday` es "Jornada laboral"**, no "Gestión Mensual". El área `Nodes` de
+  `translate.sql` dice "Gestión Mensual" y por eso `_fuentes/rutas-menu.md` lo muestra
+  así, pero la etiqueta correcta para el usuario es **Jornada laboral**.
+- **Las horas totales (ordinarias, extra, planificadas) NO son exclusivas de PRO**:
+  están disponibles también en LITE. No pongas el badge `PRO` en ese apartado.
+- **Nada de geolocalización.** No se menciona en los artículos, en ninguna forma.
+- **No se habla de la APP móvil**: va a cambiar a corto plazo. No la menciones, ni
+  describas sus pantallas, ni uses sus etiquetas de menú (**Reloj**, **Mis marcas**…).
+  Cuando haga falta decir desde dónde se usa el producto, di que puedes usar Sebastian
+  HR **desde un ordenador o desde un móvil**, sin entrar en la aplicación concreta.
+- **Di "fichaje", no "marca"**, cuando te refieras al registro de entrada o salida.
+  (**Mis marcas** sí se escribe así: es la etiqueta real del menú de la APP.)
+- **El empleado ve sus horas de fichajes y el porcentaje de horas trabajadas.** No ve
+  las herramientas de revisión de Recursos Humanos (jornadas sucias, reaperturas,
+  contadores de incidencias).
+- En **`instancias-y-solicitudes`**, el apartado *¿Quién valida mis instancias?* tiene
+  que explicar que **es un flujo configurable**.
+
 ## Fuentes transversales
 
 | Qué | Ruta |

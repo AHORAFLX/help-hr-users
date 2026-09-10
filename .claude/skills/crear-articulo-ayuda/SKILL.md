@@ -85,6 +85,22 @@ la nuestra las lleva.
 - Cierra con enlaces a artículos relacionados cuando tenga sentido.
 - No repitas el título como un `##` justo debajo del `#`.
 
+### Nivel de detalle: responde la pregunta y para
+
+El error más fácil de cometer aquí es escribir de más. Investigar el código destapa
+muchísimo detalle y **casi nada de eso le sirve a la persona empleada**. Criterio:
+
+- **No expliques la configuración interna.** Si algo depende de cómo lo tenga montado
+  cada empresa, basta con "según lo que tenga configurado tu empresa" y, si procede,
+  "pregunta a Recursos Humanos". No enumeres las condiciones ni los parámetros.
+- **No cuentes los procesos internos de Recursos Humanos** (reaperturas, jornadas
+  sucias, recálculos, informes de gestión) salvo que el empleado tenga que hacer algo
+  con ellos.
+- **No reproduzcas listas de columnas o de campos** solo porque las hayas encontrado.
+  Resume qué información verá.
+- **No incluyas fórmulas de cálculo.** Di qué significa el dato, no cómo se computa.
+- Si dudas entre dejar un párrafo o quitarlo, quítalo.
+
 ### Funcionalidad exclusiva de PRO
 
 Marca el apartado afectado, no dupliques el artículo:

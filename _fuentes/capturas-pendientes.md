@@ -14,4 +14,9 @@ son de la interfaz anterior.
 
 | Artículo | Apartado | Qué debe mostrar | Estado |
 |---|---|---|---|
-| | | | |
+| `fichajes` | ¿Cómo ficho…? / En la oficina | Pantalla del Punto de acceso con el teclado numérico y el campo de código | Pendiente |
+| `fichajes` | ¿Cómo ficho…? / De viaje | Botón de fichaje de la pantalla de inicio | Pendiente |
+| `fichajes` | ¿Dónde veo el detalle de mis fichajes del mes? | Listado mensual de **Jornada laboral**, una fila por día, con la columna de Progreso | Pendiente |
+| `fichajes` | ¿Cómo veo mis horas totales? | Resumen mensual: gráfico de porcentaje cumplido y desglose de horas | Pendiente |
+| `fichajes` | ¿Cómo veo la página de fichajes del día? | Ventana de detalle del día con la lista de fichajes de esa jornada | Pendiente |
+| `fichajes` | ¿Cómo reporto/corrijo un fichaje…? | Formulario de solicitud de modificación de fichaje, con el campo de comentario | Pendiente |
