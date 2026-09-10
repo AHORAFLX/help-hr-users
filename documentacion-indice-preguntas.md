@@ -51,9 +51,10 @@ modo PRO.
 - ¿Qué es exactamente mi planificación?
 - ¿Qué diferencia hay entre mis horas teóricas, mis horas trabajadas y mis horas planificadas?
 
-## 06 · Mi contrato y datos laborales
+## 06 · Mi contrato y datos laborales (Hecho)
 
 - ¿Cómo consulto mi contrato actual?
+- ¿Puedo tener varios contratos?
 - ¿Cuándo termina mi periodo de prueba o mi contrato temporal?
 
 ## 07 · Equipos y estructura corporativa

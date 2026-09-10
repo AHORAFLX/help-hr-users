@@ -30,3 +30,5 @@ son de la interfaz anterior.
 | `planificacion` | ¿Cómo veo mi turno de esta semana o este mes? / Esta semana | Bloque **Planificación de la semana** de la pantalla de inicio, con una tarjeta por día y el día de hoy marcado | Pendiente |
 | `planificacion` | ¿Cómo veo mi turno…? / Este mes | Calendario mensual de planificación del **Área personal**, con varios turnos y algún día de vacaciones | Pendiente |
 | `planificacion` | ¿Qué es exactamente mi planificación? / Mi horario personal | Pantalla **Planificación exclusiva** con los bloques **Horario personal** y **Turnos exclusivos** | Pendiente |
+| `mi-contrato-y-datos-laborales` | ¿Cómo consulto mi contrato actual? | Listado de **Contratos** del **Área personal**, con el contrato **En curso** y alguno finalizado | Pendiente |
+| `mi-contrato-y-datos-laborales` | ¿Cómo consulto mi contrato actual? | Detalle de un contrato con el bloque de datos laborales y el bloque **Salario** | Pendiente |
