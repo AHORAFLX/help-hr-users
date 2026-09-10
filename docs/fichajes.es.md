@@ -19,9 +19,7 @@ Según lo que tenga configurado tu empresa, puedes fichar por tres vías:
 - **Terminal de fichaje**: los relojes o lectores físicos del centro. Sus fichajes se
   sincronizan solos con Sebastian HR, no tienes que hacer nada más.
 
-Solo existen dos tipos de fichajes: **Entrada** y **Salida**. Las pausas y los ratos de
-disponibilidad no son un tipo aparte, sino una **clase de marcaje** distinta
-(*Trabajo efectivo* o *Disponibilidad*) que se aplica al fichaje.
+Solo existen dos tipos de fichajes: **Entrada** y **Salida**. Las pausas se calculan en funcion de los descansos indicados en el turno.
 
 !!! note "No todas las vías están siempre disponibles"
     Cada empresa decide qué vías activa. Si echas en falta una opción, pregunta a
@@ -82,7 +80,7 @@ festivos.
 
 ## ¿Dónde veo el detalle de mis fichajes del mes (horario, progreso, diferencia)?
 
-Entra en **Jornada laboral**. Verás una fila por día del mes con tu turno, tu horario
+Entra en **Ver lista mensual** desde el Área Personal. Verás una fila por día del mes con tu turno, tu horario
 previsto, tu horario real, las horas que has trabajado y el porcentaje cumplido.
 
 <!-- TODO:captura: listado mensual de Jornada laboral con una fila por día y la columna de Progreso -->
@@ -96,12 +94,10 @@ previsto, tu horario real, las horas que has trabajado y el porcentaje cumplido.
 
 Junto al listado del mes tienes un **resumen mensual** con tus totales acumulados:
 horas teóricas del mes, horas registradas en fichajes, el reparto entre **horas
-ordinarias** y **horas extra**, y el porcentaje del mes que llevas cumplido.
+ordinarias** y **horas extra**.
 
 <!-- TODO:captura: resumen mensual con el gráfico de porcentaje cumplido y el desglose de horas -->
 
-El listado del mes también se puede filtrar por **Balance** y por **Tiempo Extra**,
-para ver solo los días consolidados o los días con horas extra.
 
 ## ¿Cómo me descargo un informe con mis fichajes?
 
@@ -110,7 +106,9 @@ que es el registro legal de tu jornada en PDF.
 
 1. Entra en **Jornada laboral**.
 2. Pulsa el botón del **Libro de Registro de Horas de Trabajo**.
-3. Indica el año y el mes que quieres descargar.
+3. Se descarga el informe del mes que estás viendo.
+
+Puedes navegar por los meses en los que has fichado para descargar el fichaje correspondiente.
 
 El PDF recoge, día a día, tu horario previsto y el real, las horas teóricas, las
 trabajadas y el saldo, con una fila final de totales.
