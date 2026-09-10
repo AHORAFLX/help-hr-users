@@ -1,91 +1,111 @@
 # Estructura de archivos y navegación de este proyecto
 
-Basado en `https://ayuda.ahora.es/help/1.0/GettingStarted/FileStructure/` y
-`.../GettingStarted/VisualStructure/`, adaptado a lo que ya usa este repositorio
-(revisa siempre `mkdocs.yml` y `docs/index.es.md` como fuente de verdad si hay
-discrepancias con este documento).
+Fuente de verdad: `mkdocs.yml` y el índice de temario
+`documentacion-indice-preguntas.md` (raíz del repo). Si algo de este documento
+discrepa con ellos, mandan ellos.
 
-## Dónde va cada artículo
+## Alcance del sitio
+
+Este sitio documenta **solo la ruta Empleado** (autoservicio): lo que una persona
+empleada puede hacer por sí misma. La configuración de Gestor/RRHH (tablas maestras,
+nóminas, integraciones, informes de gestión) **no entra**. Si un artículo te pide
+explicar cómo se configura algo a nivel de empresa, para y pregunta.
+
+## Un artículo por categoría
+
+El temario son **12 categorías** y cada categoría es **un solo artículo**. Dentro de
+él, **cada pregunta del índice es un apartado `##`**. No hay capas
+(Conceptos/Configuración/Uso), ni carpetas por categoría, ni artículos sueltos por
+pregunta.
 
 ```
 docs/
-  <Categoría>/
-    <Título del artículo>.es.md   ← versión en español (obligatoria)
-    <Título del artículo>.en.md   ← versión en inglés (opcional)
+  index.es.md                              ← portada
+  la-pantalla-de-inicio.es.md
+  area-personal.es.md
+  instancias-y-solicitudes.es.md
+  fichajes.es.md
+  ausencias-y-vacaciones.es.md
+  planificacion.es.md
+  mi-contrato-y-datos-laborales.es.md
+  equipos-y-estructura-corporativa.es.md
+  vigilancia-de-la-salud.es.md
+  cursos-y-certificaciones.es.md
+  reservas-viajes-y-gastos.es.md
+  noticias-documentacion-y-comunicacion.es.md
   docs_assets/
-    images/<Producto o módulo>/...
+    <imágenes>
 ```
 
-- `<Categoría>` es una carpeta con **espacios y tildes reales** en el nombre (no
-  guiones ni minúsculas forzadas). Ejemplos ya existentes en este proyecto:
-  `Primeros pasos`, `Gestión de Empleados`, `Gestión del tiempo de trabajo`,
-  `Ausencias y vacaciones`, `Gestión de Instancias`, `Nóminas y salarios`,
-  `Otras funcionalidades`, `Integraciones`, `Informes`, `FAQ (HR)`, `Versiones`,
-  `APP móvil`.
-- Usa una categoría existente si el tema encaja; solo crea una carpeta nueva si el
-  usuario lo pide o si ninguna categoría existente es razonable.
-- `<Título del artículo>` es el nombre real del archivo (con espacios, tildes y
-  mayúsculas tal cual se quiere mostrar), **siempre terminado en `.es.md`** para la
-  versión en español. Ejemplo real del repo:
-  `docs/Primeros pasos/Configuración Inicial Sebastian HR.es.md`.
+### Nombres de archivo
+
+**kebab-case, sin espacios, sin tildes, sin números, siempre `.es.md`.**
+
+- Bien: `mi-contrato-y-datos-laborales.es.md`, `planificacion.es.md`
+- Mal: `Mi contrato y datos laborales.es.md`, `06-planificación.es.md`, `Fichajes.md`
+
+El título (`H1`) sí lleva tildes y mayúsculas normales: `# Mi contrato y datos laborales`.
+
+Solo se escribe la versión en español. El inglés (`.en.md`) queda para una pasada
+posterior; no lo crees por iniciativa propia.
 
 ## Registrar el artículo en `mkdocs.yml`
 
-Este proyecto usa navegación **manual** (bloque `nav:` completo, no autogenerado).
-Un archivo nuevo **no aparecerá en el menú** hasta que añadas su entrada ahí.
-
-La ruta en `nav` se escribe **sin el sufijo de idioma** (el plugin `i18n` resuelve
-`Archivo.md` → `Archivo.es.md` o `Archivo.en.md` según el idioma activo):
+La navegación es **manual**: un archivo nuevo no aparece en el menú hasta que añades
+su entrada. La ruta va **sin el sufijo de idioma** (el plugin `i18n` resuelve
+`fichajes.md` → `fichajes.es.md`), y la etiqueta del menú **coincide con el `H1`** del
+artículo:
 
 ```yaml
 nav:
   - Inicio: index.md
-  - Primeros pasos:
-    - Configuracion Inicial Sebastian HR: Primeros pasos/Configuración Inicial Sebastian HR.md
+  - Fichajes: fichajes.md
 ```
 
-Reglas al editar `nav`:
+El orden del `nav` es el del temario, no alfabético. No reordenes ni reescribas
+entradas existentes: añade solo la tuya en su sitio.
 
-- Añade tu entrada dentro de la categoría correspondiente, respetando la indentación
-  de 4 espacios existente (`- Nombre: Ruta`).
-- El texto antes de `:` es la etiqueta que se muestra en el menú (puede omitir tildes
-  si sigues el estilo ya usado en algunas entradas del proyecto, pero es más correcto
-  mantenerlas).
-- La ruta después de `:` debe coincidir **exactamente** (mayúsculas, tildes, espacios)
-  con el nombre real del archivo en `docs/`, cambiando solo `.es.md`/`.en.md` por `.md`.
-- No reordenes ni reescribas entradas ya existentes; solo añade la tuya, en orden
-  alfabético dentro de su categoría salvo que el usuario indique otro criterio.
-- Si creas una categoría nueva, añádela como una nueva clave de nivel superior dentro
-  de `nav`, después de `Inicio` y en el lugar que tenga más sentido temático.
+## Enlaces internos
 
-## Enlaces internos entre artículos
-
-Usa rutas relativas al archivo `.md` sin sufijo de idioma, igual que en
-`docs/index.es.md`:
+Todos los artículos están en la misma carpeta, así que los enlaces son directos y sin
+codificar:
 
 ```markdown
-[Configuración Inicial Sebastian HR](../Primeros%20pasos/Configuraci%C3%B3n%20Inicial%20Sebastian%20HR.md)
+Consulta [Ausencias y vacaciones](ausencias-y-vacaciones.md) para pedir tus días.
 ```
 
-- Los espacios y caracteres acentuados en la URL pueden escribirse codificados
-  (`%20`, `%C3%B3`...) como en los enlaces ya existentes, o sin codificar — MkDocs
-  resuelve ambos, pero sé consistente con el resto del archivo que edites.
-- Los enlaces son sensibles a mayúsculas/minúsculas y a los espacios exactos del
-  nombre de archivo real.
+- Siempre al `.md`, **nunca** al `.es.md` — el plugin `i18n` lo resuelve.
+- Para enlazar a un apartado concreto, usa el ancla que genera el título:
+  `[¿Cómo solicito vacaciones?](ausencias-y-vacaciones.md#como-solicito-vacaciones)`.
+
+## Encabezados
+
+- Un único `#` (el título del artículo).
+- Un `##` por pregunta del índice, con el texto de la pregunta.
+- `###` para subdividir una respuesta larga.
+- **Nunca `####` o más**: con `toc_depth: 3` no aparecen en el índice de la página.
 
 ## Imágenes y recursos
 
-- Guarda las imágenes en `docs/docs_assets/images/<Producto o módulo>/`, creando la
-  subcarpeta si no existe (actualmente `docs_assets/` está vacío en este proyecto).
-- No modifiques nada dentro de `docs_assets/fh-structural/`, `stylesheets/fh-structural/`
-  ni `javascripts/fh-structural/` — son recursos estructurales de la plantilla
-  (marcados "NO MODIFICAR" en la guía oficial).
-- Los estilos/scripts propios del proyecto van directamente en `docs/stylesheets/` y
-  `docs/javascripts/` (fuera de `fh-structural/`), y se registran en `mkdocs.yml` bajo
-  `extra_css`/`extra_javascript`, después del comentario
-  `# Your project styles files here ↓` / `# Your project js files here ↓`.
+- Van en `docs/docs_assets/`, con el mismo criterio de nombres (kebab-case sin tildes).
+- Cuando haga falta una captura que no tenemos, deja el marcador en su sitio exacto:
+  `<!-- TODO:captura: pantalla de fichaje con el botón de entrada resaltado -->`
+  y añade la entrada correspondiente a `_fuentes/capturas-pendientes.md`.
+- No inventes rutas de imagen ni enlaces a capturas que no existen.
 
 ## Carpetas que NO debes tocar
 
-- `site/` — salida generada por `mkdocs build`, no se versiona a mano.
-- `overrides/` — plantillas del tema, marcadas "NO MODIFICAR" en la guía oficial.
+- `docs/stylesheets/fh-structural/`, `docs/javascripts/fh-structural/`,
+  `docs/docs_assets/fh-structural/` — recursos estructurales de la plantilla.
+- `overrides/` — plantillas del tema.
+- `site/` — salida de `mkdocs build`.
+- `_fuentes/*.md` — generados por script; se regeneran, no se editan a mano.
+
+## Comprobar antes de terminar
+
+```bash
+node _fuentes/scripts/check-docs.js
+```
+
+Valida nombres de archivo, entradas del `nav`, enlaces internos, niveles de encabezado
+y un único `H1`, y cuenta las capturas pendientes.

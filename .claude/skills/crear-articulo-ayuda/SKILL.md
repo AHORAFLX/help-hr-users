@@ -1,77 +1,125 @@
 ---
 name: crear-articulo-ayuda
-description: Crea, amplía o corrige artículos de la documentación de ayuda de Sebastian HR (sitio MkDocs Material basado en la plantilla ayuda.ahora.es/help). Aplica el estilo de redacción, la estructura de archivos/navegación y los componentes personalizados (fh-copy, fh-modal, fh-popover, flx-navbutton, fh-namepropagator, clases fh-*) de este proyecto. Úsala cuando el usuario pida escribir, redactar, editar, traducir o añadir un artículo/página a esta documentación.
+description: Crea, amplía o corrige artículos de la documentación de usuario de Sebastian HR (sitio MkDocs Material basado en la plantilla ayuda.ahora.es/help). Aplica el estilo de redacción, la estructura de archivos/navegación, las fuentes de verdad del código y los componentes personalizados (fh-copy, fh-modal, fh-popover, flx-navbutton, fh-namepropagator, clases fh-*) de este proyecto. Úsala cuando el usuario pida escribir, redactar, editar, traducir o añadir un artículo/página a esta documentación.
 ---
 
 # Crear artículos de ayuda (Sebastian HR)
 
-Este proyecto es un sitio MkDocs (tema Material) generado a partir de la plantilla de
-`https://ayuda.ahora.es/help/1.0/`. Antes de escribir contenido, ten en cuenta que este
-repo **ya tiene convenciones propias** (ver `mkdocs.yml` y `docs/index.es.md`) que hay que
-respetar además de la guía genérica de la plantilla.
+Sitio MkDocs (tema Material) generado a partir de la plantilla de
+`https://ayuda.ahora.es/help/1.0/`. Este repo tiene **convenciones propias** que
+mandan sobre la guía genérica de la plantilla: la fuente de verdad es `mkdocs.yml`
+y el temario `documentacion-indice-preguntas.md` (raíz del repo).
 
-Carga los archivos de `reference/` solo cuando los necesites (evita leerlos todos de golpe
-si la tarea es simple, p. ej. una corrección menor de texto):
+## Lo que hay que saber antes de escribir una sola línea
 
-- `reference/estructura-proyecto.md` — dónde va cada archivo, cómo nombrarlo y cómo
-  registrarlo en el `nav` de `mkdocs.yml`. **Léelo siempre antes de crear un artículo nuevo.**
+**Alcance: solo la ruta Empleado.** Este sitio documenta lo que una persona empleada
+hace por sí misma. La configuración de Gestor/RRHH (tablas maestras, nóminas,
+integraciones, informes de gestión) no entra. Si el artículo te lleva ahí, para y
+pregunta.
+
+**Estructura: 12 categorías, 12 artículos.** Cada categoría del temario es un solo
+artículo, y **cada pregunta del índice es un apartado `##`** con el texto de la
+pregunta. No hay capas ni carpetas por categoría.
+
+**Fuentes: el código y la persona que mantiene la documentación. Nada más.** No se
+deduce, no se rellena a ojo, no se copia de la ayuda antigua. Lo que no puedas
+confirmar se queda como pregunta pendiente.
+
+## Referencias
+
+Cárgalas solo cuando las necesites (no las leas todas de golpe para una corrección
+menor de texto):
+
+- `reference/fuentes-de-verdad.md` — **léelo siempre antes de redactar contenido
+  nuevo.** Qué ruta del código confirma cada cosa, categoría por categoría, y qué
+  hacer cuando el código no contesta.
+- `reference/estructura-proyecto.md` — **léelo siempre antes de crear un artículo.**
+  Nombres de archivo, entrada en el `nav`, enlaces internos, niveles de encabezado.
 - `reference/componentes-personalizados.md` — componentes propios de Ahora
-  (`fh-copy`, `fh-modal`, `fh-popover`, `flx-navbutton`, `fh-namepropagator`) y clases CSS
-  personalizadas (`fh-title-with-image`, `fh-version-tag`, `link`, `button`, `video-wrapper`,
-  `only-light`/`only-dark`, `no-language`). Léelo cuando el artículo necesite algo interactivo
-  más allá de Markdown estándar.
-- `reference/markdown-avanzado.md` — sintaxis de admonitions, pestañas, bloques de código
-  avanzados, iconos Material, Mermaid, listas de definición, etc. (soportado vía
-  `markdown_extensions` en `mkdocs.yml`). Léelo cuando necesites un aviso, pestañas de
-  código, un diagrama, etc.
-- `templates/articulo.md` — esqueleto de artículo listo para copiar y rellenar.
+  (`fh-copy`, `fh-modal`, `fh-popover`, `flx-navbutton`, `fh-namepropagator`) y clases
+  CSS (`fh-title-with-image`, `fh-version-tag`, `link`, `button`, `video-wrapper`,
+  `only-light`/`only-dark`, `no-language`). Léelo si el artículo necesita algo
+  interactivo más allá de Markdown estándar.
+- `reference/markdown-avanzado.md` — admonitions, pestañas, bloques de código,
+  iconos Material, Mermaid, listas de definición. Léelo cuando necesites un aviso,
+  pestañas o un diagrama.
+- `templates/articulo.md` — esqueleto listo para copiar.
+
+Como referencia de forma: `ejemplo-index.md` (raíz del repo) para la portada, y
+`docs/fichajes.es.md` para el estilo de un artículo. Ojo: `ejemplo-index.md` es solo
+un molde de estructura — su contenido es de Gestor/RRHH y su prosa va sin tildes;
+la nuestra las lleva.
 
 ## Flujo de trabajo
 
-1. **Aclara el encaje del artículo** si no es obvio: título, categoría del menú (una de las
-   ya existentes en `mkdocs.yml` → `nav`, o una nueva), e idioma(s) (español obligatorio,
-   inglés opcional). No asumas una categoría nueva si ya existe una razonable.
-2. **Lee `reference/estructura-proyecto.md`** para resolver la ruta del archivo, el nombre
-   exacto y la entrada de `nav` correspondiente.
-3. **Redacta el contenido** siguiendo `templates/articulo.md` como esqueleto y las
-   convenciones de estilo de abajo. Solo usa componentes/clases personalizados cuando
-   aporten algo real (ver referencias) — no los fuerces.
-4. **Actualiza `mkdocs.yml`** añadiendo la entrada correspondiente dentro del bloque `nav`
-   existente, en la categoría correcta y en orden alfabético dentro de ella (a menos que el
-   usuario pida otro orden). No reescribas el bloque `nav` completo: añade solo tu línea.
-5. **Verifica enlaces internos**: deben ser relativos, apuntar al archivo `.md` (sin sufijo
-   de idioma) y respetar mayúsculas/minúsculas y espacios exactos del nombre real del
-   archivo (ver ejemplos en `docs/index.es.md`).
-6. Si el usuario tiene el servidor local corriendo (`mkdocs serve`), recuérdale que el
-   navegador se recarga solo; si no, no es necesario levantarlo para escribir el artículo.
+1. **Identifica la categoría** en `documentacion-indice-preguntas.md` y sus preguntas.
+   Esas preguntas son tus apartados `##`, con su texto tal cual.
+2. **Lee `reference/fuentes-de-verdad.md`** y consulta el código que corresponde a esa
+   categoría. Consulta también `_fuentes/glosario-ui.es.md` (cómo se llama cada cosa
+   en pantalla) y `_fuentes/rutas-menu.md` (el recorrido de menú exacto).
+3. **Lee `reference/estructura-proyecto.md`** para el nombre de archivo y la entrada
+   del `nav`.
+4. **Redacta** siguiendo `templates/articulo.md` y el estilo de abajo. Usa
+   componentes o clases personalizados solo cuando aporten algo real.
+5. **Añade la entrada en `mkdocs.yml`** dentro del `nav`, en el orden del temario (no
+   alfabético). No reescribas el bloque: añade solo tu línea.
+6. **Comprueba**: `node _fuentes/scripts/check-docs.js`.
+7. **Entrega las preguntas pendientes** en una lista corta al final de tu respuesta.
 
-## Estilo de redacción (observado en `docs/index.es.md` y la guía de la plantilla)
+## Estilo de redacción
 
-- Español, tono directo e instructivo, dirigido a la persona usuaria/administradora de RRHH
-  que configura o usa Sebastian HR — no a un desarrollador.
-- Un **H1** (`#`) con el título del artículo, igual (o muy parecido) al texto usado en la
-  entrada del `nav`.
-- Párrafo introductorio corto explicando qué es y para qué sirve la funcionalidad, antes del
-  primer `##`.
-- Estructura el cuerpo con `##` y `###`: son los únicos niveles que aparecen en el
-  submenú/TOC de la página. No uses `####` para pasos que el lector deba poder saltar a través
-  del índice.
-- Pasos de configuración como listas numeradas; requisitos previos o notas importantes como
-  admonitions (`!!! note`, `!!! warning`, `!!! tip`) — ver `reference/markdown-avanzado.md`.
-- Capturas de pantalla con `![texto alternativo](ruta "título opcional")`, guardadas en
-  `docs/docs_assets/images/<Producto o módulo>/...` (crea subcarpetas si no existen).
-- Cierra artículos largos con enlaces a artículos relacionados cuando tenga sentido, con la
-  misma sintaxis de enlace relativo usada en `docs/index.es.md`.
-- No repitas manualmente el título del artículo como un `##` justo debajo del `#`.
+- Español, tono directo, **dirigido a la persona empleada** que usa Sebastian HR —
+  no a un desarrollador ni a quien administra el sistema. Segunda persona: "ficha
+  desde el reloj", "consulta tus documentos".
+- Un `#` con el título del artículo, igual que la etiqueta del `nav`.
+- Párrafo introductorio corto: qué resuelve este artículo, antes del primer `##`.
+- Un `##` por pregunta del temario, con el texto de la pregunta. `###` para
+  subdividir una respuesta larga. **Nunca `####`**: con `toc_depth: 3` no sale en el
+  índice de la página.
+- Los pasos, en listas numeradas. Los requisitos o avisos importantes, en admonitions
+  (`!!! note`, `!!! warning`, `!!! tip`).
+- **Llama a las cosas como las llama la aplicación**, con el término de
+  `_fuentes/glosario-ui.es.md`. Si la app dice "Jornada", el artículo dice "Jornada".
+- Los recorridos de menú, en negrita y con `>`: **Gestión Mensual > Mis marcas**, con
+  las etiquetas exactas de `_fuentes/rutas-menu.md`.
+- Cierra con enlaces a artículos relacionados cuando tenga sentido.
+- No repitas el título como un `##` justo debajo del `#`.
+
+### Funcionalidad exclusiva de PRO
+
+Marca el apartado afectado, no dupliques el artículo:
+
+```markdown
+## ¿Cómo veo mis horas totales? <span class="fh-version-tag" title="Solo disponible en modo PRO">PRO</span>
+```
+
+Qué es exclusivo de PRO se confirma en
+`../Flexygo_HR.Processes/ApplicationMode.cs`, nunca de memoria.
+
+### Capturas de pantalla
+
+No tenemos capturas nuevas y no se inventan rutas de imagen. Donde haga falta una,
+deja el marcador en su sitio exacto:
+
+```markdown
+<!-- TODO:captura: pantalla de fichaje con el botón de entrada resaltado -->
+```
+
+y añade la entrada a `_fuentes/capturas-pendientes.md`.
 
 ## Errores comunes a evitar
 
-- Nombrar el archivo sin el sufijo `.es.md` (o `.en.md` para la versión en inglés).
-- Enlazar a un artículo usando el sufijo de idioma (`Archivo.es.md`) en vez del nombre base
-  (`Archivo.md`) — el plugin `i18n` resuelve el idioma automáticamente.
-- Olvidar añadir la entrada en `nav` dentro de `mkdocs.yml` (si no está en `nav`, MkDocs con
-  navegación manual no la mostrará en el menú aunque el archivo exista).
-- Usar `####` o más para contenido que debería ser navegable desde el submenú.
-- Añadir un componente personalizado (`fh-modal`, `fh-popover`, etc.) sin revisar antes su
-  sintaxis exacta en `reference/componentes-personalizados.md` — los atributos y el `id` del
-  bloque asociado son estrictos.
+- Nombrar el archivo con espacios, tildes, mayúsculas o números
+  (debe ser kebab-case: `mi-contrato-y-datos-laborales.es.md`).
+- Enlazar con el sufijo de idioma (`fichajes.es.md`) en vez del nombre base
+  (`fichajes.md`) — el plugin `i18n` resuelve el idioma.
+- Olvidar la entrada en `nav`: sin ella el artículo no aparece en el menú aunque el
+  archivo exista.
+- Usar `####` o más para contenido que debería ser navegable desde el índice.
+- Documentar como disponible un nodo marcado ⛔ **deshabilitado** en
+  `_fuentes/rutas-menu.md`.
+- Inventarse el nombre de una pantalla o de un campo en vez de sacarlo del glosario.
+- Rellenar a ojo lo que el código no confirma, en lugar de dejarlo como pregunta.
+- Añadir un componente personalizado (`fh-modal`, `fh-popover`…) sin revisar su
+  sintaxis exacta en `reference/componentes-personalizados.md` — los atributos y el
+  `id` del bloque asociado son estrictos.

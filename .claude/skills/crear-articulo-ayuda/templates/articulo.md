@@ -1,29 +1,38 @@
-# Título del artículo
+# Título de la categoría
 
-Párrafo introductorio breve: qué es esta funcionalidad y para qué sirve, en un
-lenguaje claro dirigido a la persona que administra o usa Sebastian HR.
+Párrafo introductorio breve: qué resuelve este artículo, dirigido a la persona
+empleada y en segunda persona. Sin repetir el título.
 
-!!! note "Requisitos previos"
-    Menciona aquí permisos, configuraciones u objetos previos necesarios, si aplica.
-    Elimina este bloque si no hace falta.
+!!! note "Antes de empezar"
+    Permisos, datos o configuraciones que tienen que existir para que puedas hacer
+    esto. Elimina el bloque si no hace falta.
 
-## Primera sección
+## ¿Primera pregunta del temario, tal cual está en el índice?
 
-Explicación o contexto de este bloque de pasos.
+Respuesta directa en una o dos frases, y después el detalle.
 
-1. Primer paso.
+1. Ve a **Etiqueta exacta del menú > Subetiqueta** (sácalas de `_fuentes/rutas-menu.md`).
 2. Segundo paso.
 3. Tercer paso.
 
-## Segunda sección
-
-### Un caso concreto o subapartado
-
-Contenido del subapartado.
+<!-- TODO:captura: qué se debe ver en la imagen y qué hay que resaltar -->
 
 !!! tip
-    Un consejo útil relacionado con este apartado, si aplica.
+    Un consejo útil de verdad relacionado con este apartado. Si no lo hay, fuera.
+
+## ¿Segunda pregunta del temario?
+
+### Un caso concreto
+
+Contenido del subapartado. Nunca bajes a `####`.
+
+## ¿Tercera pregunta, si es exclusiva de PRO? <span class="fh-version-tag" title="Solo disponible en modo PRO">PRO</span>
+
+Confirma en `ApplicationMode.cs` que de verdad es exclusiva de PRO antes de poner
+la etiqueta.
+
+<!-- PENDIENTE: la pregunta concreta que necesitas que te respondan para cerrar este apartado -->
 
 ## Artículos relacionados
 
-- [Otro artículo relacionado](../Categoria/Otro%20articulo.md)
+- [Otra categoría relacionada](otra-categoria.md)

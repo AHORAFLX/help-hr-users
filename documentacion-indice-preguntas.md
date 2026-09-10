@@ -16,6 +16,8 @@ modo PRO.
 - ¿Desde dónde veo o descargo mis documentos (nóminas, certificados, evidencia de firma, etc.)?
 - ¿Cómo registro o consulto mis habilidades/competencias?
 - ¿Cómo veo mi planificación del mes (turnos, festivos, ausencias, vacaciones)?
+- ¿Que son las evaluaciones de desempeño?
+
 
 ## 02 · Instancias y solicitudes
 
@@ -26,6 +28,7 @@ modo PRO.
 
 ## 03 · Fichajes
 
+- ¿Desde dónde puedo fichar?
 - ¿Cómo ficho si estoy en la oficina, en remoto o de viaje?
 - ¿Qué significa el estado "GENERADO" en mi fichaje?
 - ¿Dónde veo el detalle de mis fichajes del mes (horario, progreso, diferencia)?
@@ -36,9 +39,10 @@ modo PRO.
 
 ## 04 · Ausencias y vacaciones
 
-- ¿Cómo solicito vacaciones?
+- ¿Cómo solicito vacaciones o ausencias?
 - ¿Cuántos días de vacaciones me quedan / cuántos he disfrutado?
 - ¿Puedo eliminar unas vacaciones ya aprobadas?
+- ¿Puedo adjuntar documentos a una ausencia?
 
 ## 05 · Planificación
 
