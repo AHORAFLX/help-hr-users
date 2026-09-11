@@ -33,10 +33,14 @@ Una vez confirmada tu asistencia, la ficha del curso te muestra el bloque **Tu r
 Puntúa el curso de una a cinco estrellas y, si quieres, deja un comentario. Tu reseña se
 suma a las del resto de asistentes, que se ven en el bloque **Reseñas** de la misma ficha.
 
-### Los certificados que consigues al aprobar un curso <span class="fh-version-tag" title="Solo disponible en modo PRO">PRO</span>
+### Los certificados que consigues al aprobar un curso
 
 Algunos cursos llevan asociado un certificado. Cuando quien imparte el curso te evalúa y
 apruebas, el certificado se añade solo a tu ficha: no tienes que pedirlo.
+
+!!! note "Si no encuentras esta opción"
+    Que los cursos lleven certificado depende de la configuración que haya hecho tu
+    empresa. Si no la ves, pregunta a Recursos Humanos.
 
 Los tienes en **Área personal > Certificaciones**, con el certificado, la fecha en que lo
 obtuviste y su fecha de caducidad, empezando por los que caducan más tarde.

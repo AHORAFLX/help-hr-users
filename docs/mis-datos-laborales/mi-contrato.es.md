@@ -8,11 +8,10 @@ En este artículo verás dónde está tu contrato, qué ocurre si tienes más de
 saber cuándo termina tu periodo de prueba o tu contrato temporal.
 
 !!! note "Puede que tú veas menos información"
-    Sebastian HR se puede contratar en dos versiones y este artículo describe la más
-    completa. Si al abrir tu contrato no encuentras alguno de los datos que se explican
-    aquí —tu porcentaje de jornada o la fecha en que acaba tu periodo de prueba, por
-    ejemplo—, es que tu empresa tiene la versión básica y esos datos no se guardan ahí.
-    Si necesitas alguno, pídelo a Recursos Humanos.
+    Este artículo describe todos los datos que puede llegar a mostrar un contrato. Si al
+    abrir el tuyo no encuentras alguno de los que se explican aquí —tu porcentaje de
+    jornada o la fecha en que acaba tu periodo de prueba, por ejemplo—, es que la
+    configuración que ha hecho tu empresa no los recoge ahí.
 
 ## ¿Cómo consulto mi contrato actual?
 

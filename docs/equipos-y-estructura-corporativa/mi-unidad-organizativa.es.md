@@ -31,8 +31,9 @@ ella, desde cuándo estás y una etiqueta **Actual**, **Histórico** o **Futuro*
 la de hoy, una anterior o un cambio que ya está previsto. Ahí tienes también tu recorrido
 por la empresa: cada unidad por la que has pasado, con sus fechas.
 
-!!! note "Unidades organizativas es del modo PRO"
-    Si tu empresa trabaja en modo LITE, esta entrada no aparece en tu **Área personal**.
+!!! note "Si no encuentras esta entrada"
+    Que **Unidades organizativas** aparezca en tu **Área personal** depende de la
+    configuración que haya hecho tu empresa. Si no la ves, pregunta a Recursos Humanos.
 
 ## ¿Cómo veo el organigrama / estructura corporativa de la empresa?
 
