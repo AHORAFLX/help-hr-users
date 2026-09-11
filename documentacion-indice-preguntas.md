@@ -81,8 +81,10 @@ modo PRO.
 - ¿Cómo registro un gasto y añado líneas al gasto?
 - ¿Cómo solicito un viaje de empresa?
 
-## 11 · Noticias, documentación y comunicación
+## 11 · Noticias, documentación y comunicación (Hecho)
 
 - ¿Dónde encuentro documentos generales de la empresa (políticas, plantillas)?
 - ¿Cómo confirmo un documento?
 - ¿Quién puede crear una sugerencia y para qué se usan?
+- ¿Para qué se usan las noticias?
+- ¿A quién van dirigidas las noticias?
