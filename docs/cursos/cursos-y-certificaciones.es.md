@@ -93,7 +93,7 @@ puedes volver a apuntarte.
 
 ## Artículos relacionados
 
-- [Vigilancia de la salud](vigilancia-de-la-salud.md) — las convocatorias de
+- [Mis vigilancias de salud](../vigilancia-de-la-salud/mis-vigilancias-de-salud.md) — las convocatorias de
   reconocimiento médico funcionan de forma parecida.
-- [Instancias y solicitudes](instancias-y-solicitudes.md) — para pedir a Recursos
+- [Solicitud, seguimiento y validación](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md) — para pedir a Recursos
   Humanos lo que no puedes hacer tú, como entrar en un curso ya completo.

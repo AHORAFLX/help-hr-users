@@ -47,7 +47,7 @@ abre la lista.
 !!! note "Tu contrato es de solo lectura"
     Puedes consultarlo y descargar sus documentos, pero no editarlo. Si algún dato no
     cuadra —las fechas, tu jornada, tu categoría—, no lo corrijas por tu cuenta: envía una
-    [instancia a Recursos Humanos](instancias-y-solicitudes.md) o habla con tu responsable.
+    [instancia a Recursos Humanos](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md) o habla con tu responsable.
 
 ## ¿Puedo tener varios contratos?
 
@@ -88,10 +88,10 @@ mismo aviso.
 
 ## Artículos relacionados
 
-- [Planificación](planificacion.md) — la jornada y los turnos que se calculan a partir de
+- [Mi planificación](../planificacion-de-turnos/mi-planificacion.md) — la jornada y los turnos que se calculan a partir de
   tu contrato.
-- [Ausencias y vacaciones](ausencias-y-vacaciones.md) — los días que te corresponden según
+- [Solicitud y cancelación](../ausencias-y-vacaciones/solicitud-y-cancelacion.md) — los días que te corresponden según
   tu contrato.
-- [Área personal](area-personal.md) — tus documentos y tu ficha de empleado.
-- [Instancias y solicitudes](instancias-y-solicitudes.md) — cómo pedir a Recursos Humanos
+- [Área personal](../tus-paginas-personales/area-personal.md) — tus documentos y tu ficha de empleado.
+- [Solicitud, seguimiento y validación](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md) — cómo pedir a Recursos Humanos
   que corrija un dato.

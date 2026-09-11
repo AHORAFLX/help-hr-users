@@ -28,18 +28,38 @@ use_directory_urls: true
 # Your project navigation structure here ↓
 nav:
   - Inicio: index.md
-  - La pantalla de inicio: la-pantalla-de-inicio.md
-  - Área personal: area-personal.md
-  - Instancias y solicitudes: instancias-y-solicitudes.md
-  - Fichajes: fichajes.md
-  - Ausencias y vacaciones: ausencias-y-vacaciones.md
-  - Planificación: planificacion.md
-  - Mi contrato y datos laborales: mi-contrato-y-datos-laborales.md
-  - Equipos y estructura corporativa: equipos-y-estructura-corporativa.md
-  - Vigilancia de la salud: vigilancia-de-la-salud.md
-  - Cursos y certificaciones: cursos-y-certificaciones.md
-  - Reservas, viajes y gastos: reservas-viajes-y-gastos.md
-  - Noticias, documentación y comunicación: noticias-documentacion-y-comunicacion.md
+  - Tus páginas personales:
+      - Home: tus-paginas-personales/home.md
+      - Área personal: tus-paginas-personales/area-personal.md
+  - Instancias y solicitudes:
+      - Tipos de instancia: instancias-y-solicitudes/tipos-de-instancia.md
+      - Solicitud, seguimiento y validación: instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md
+  - Fichajes:
+      - Fichar: fichajes/fichar.md
+      - Consulta y correcciones: fichajes/consulta-y-correcciones.md
+  - Ausencias y vacaciones:
+      - Solicitud y cancelación: ausencias-y-vacaciones/solicitud-y-cancelacion.md
+      - Consulta de totales: ausencias-y-vacaciones/consulta-de-totales.md
+  - Planificación de turnos:
+      - Mi planificación: planificacion-de-turnos/mi-planificacion.md
+  - Mis datos laborales:
+      - Mi contrato: mis-datos-laborales/mi-contrato.md
+  - Equipos y estructura corporativa:
+      - Mi responsable: equipos-y-estructura-corporativa/mi-responsable.md
+      - Mi equipo: equipos-y-estructura-corporativa/mi-equipo.md
+      - Mi unidad organizativa: equipos-y-estructura-corporativa/mi-unidad-organizativa.md
+  - Vigilancia de la salud:
+      - Mis vigilancias de salud: vigilancia-de-la-salud/mis-vigilancias-de-salud.md
+  - Cursos:
+      - Cursos y certificaciones: cursos/cursos-y-certificaciones.md
+  - Reservas, viajes y gastos:
+      - Reservas: reservas-viajes-y-gastos/reservas.md
+      - Gastos: reservas-viajes-y-gastos/gastos.md
+      - Viajes: reservas-viajes-y-gastos/viajes.md
+  - Documentación y comunicación con la empresa:
+      - Noticias: documentacion-y-comunicacion-con-la-empresa/noticias.md
+      - Documentación: documentacion-y-comunicacion-con-la-empresa/documentacion.md
+      - Buzón de sugerencias: documentacion-y-comunicacion-con-la-empresa/buzon-de-sugerencias.md
 extra:
   version:
     provider: mike

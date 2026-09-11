@@ -6,11 +6,11 @@ calendario del mes con tu planificación y, en la columna de la derecha, el resu
 situación: tu contrato, tus próximas vacaciones, tus contadores y tus documentos.
 
 En la columna de la izquierda está el menú con el acceso a todo lo tuyo: tus
-[contratos](mi-contrato-y-datos-laborales.md), tus
-[instancias](instancias-y-solicitudes.md), tus
-[ausencias y vacaciones](ausencias-y-vacaciones.md), tus
-[equipos](equipos-y-estructura-corporativa.md), tus
-[cursos](cursos-y-certificaciones.md), tus habilidades y tus evaluaciones de desempeño.
+[contratos](../mis-datos-laborales/mi-contrato.md), tus
+[instancias](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md), tus
+[ausencias y vacaciones](../ausencias-y-vacaciones/solicitud-y-cancelacion.md), tus
+[equipos](../equipos-y-estructura-corporativa/mi-equipo.md), tus
+[cursos](../cursos/cursos-y-certificaciones.md), tus habilidades y tus evaluaciones de desempeño.
 En este artículo se explican los cuatro apartados que solo viven aquí.
 
 ## ¿Desde dónde veo o descargo mis documentos (nóminas, certificados, evidencia de firma, etc.)?
@@ -36,14 +36,14 @@ documentos personales*.
 !!! note "Los documentos los publica Recursos Humanos"
     Tú los consultas y te los descargas, pero aquí no puedes subir ni borrar nada. Si
     echas en falta una nómina o necesitas un certificado, pídelo con una
-    [instancia](instancias-y-solicitudes.md).
+    [instancia](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md).
 
 !!! tip "Atajo desde la pantalla de inicio"
-    En el bloque de documentos de [la pantalla de inicio](la-pantalla-de-inicio.md)
+    En el bloque de documentos de [la pantalla de inicio](home.md)
     tienes el acceso **Mi carpeta**, que lleva a estos mismos documentos.
 
 No confundas estos documentos con la
-[documentación general de la empresa](noticias-documentacion-y-comunicacion.md)
+[documentación general de la empresa](../documentacion-y-comunicacion-con-la-empresa/documentacion.md)
 (políticas, protocolos, plantillas): esa la tienes en **Documentación** y la ve más
 gente.
 
@@ -100,7 +100,7 @@ libres se quedan en blanco. Puedes moverte a meses anteriores o posteriores.
 
 Qué significa cada código, de dónde sale el turno que tienes asignado y en qué se
 diferencian tus horas planificadas, teóricas y trabajadas lo tienes explicado en
-[Planificación](planificacion.md#como-veo-que-turno-tengo).
+[Mi planificación](../planificacion-de-turnos/mi-planificacion.md#como-veo-que-turno-tengo).
 
 !!! note "El calendario es de consulta"
     Tu planificación no la cambias tú. Si ves un día que no te cuadra, avisa a tu
@@ -137,10 +137,10 @@ Si eres responsable de un equipo, además de las tuyas tienes la entrada
 
 ## Artículos relacionados
 
-- [Mi contrato y datos laborales](mi-contrato-y-datos-laborales.md) — tu contrato y tu
+- [Mi contrato](../mis-datos-laborales/mi-contrato.md) — tu contrato y tu
   jornada contratada.
-- [Planificación](planificacion.md) — tu turno de la semana y del mes, y tus horas.
-- [Noticias, documentación y comunicación](noticias-documentacion-y-comunicacion.md) —
+- [Mi planificación](../planificacion-de-turnos/mi-planificacion.md) — tu turno de la semana y del mes, y tus horas.
+- [Documentación](../documentacion-y-comunicacion-con-la-empresa/documentacion.md) —
   la documentación general de la empresa, distinta de tus documentos personales.
-- [La pantalla de inicio](la-pantalla-de-inicio.md) — los accesos rápidos a tu carpeta y
+- [Home](home.md) — los accesos rápidos a tu carpeta y
   a tus documentos pendientes de confirmar.

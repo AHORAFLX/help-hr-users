@@ -11,69 +11,108 @@ de inicio y sigue el recorrido recomendado del final de esta página.
 
 ## Accesos rápidos
 
-- [¿Cómo ficho si estoy en la oficina, en remoto o de viaje?](fichajes.md)
-- [¿Cómo solicito vacaciones?](ausencias-y-vacaciones.md)
-- [¿Desde dónde veo o descargo mis documentos?](area-personal.md)
-- [¿Cómo veo el estado de mis solicitudes pendientes?](instancias-y-solicitudes.md)
-- [¿Cómo veo mi turno de esta semana o este mes?](planificacion.md)
+- [¿Cómo ficho si estoy en la oficina, en remoto o de viaje?](fichajes/fichar.md)
+- [¿Cómo solicito vacaciones?](ausencias-y-vacaciones/solicitud-y-cancelacion.md)
+- [¿Desde dónde veo o descargo mis documentos?](tus-paginas-personales/area-personal.md)
+- [¿Cómo veo el estado de mis solicitudes pendientes?](instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md)
+- [¿Cómo veo mi turno de esta semana o este mes?](planificacion-de-turnos/mi-planificacion.md)
 
-## Mi jornada y mi tiempo
+## Tus páginas personales
 
-Todo lo relacionado con el registro de tu jornada, tu turno y tus horas.
+Lo primero que ves al entrar y tu espacio propio dentro de Sebastian HR.
 
-- [Fichajes](fichajes.md) — cómo fichar, consultar el detalle de tus fichajes del mes,
-  descargar informes y corregir un fichaje mal registrado.
-- [Planificación](planificacion.md) — tu turno de la semana o el mes, y la diferencia
-  entre horas teóricas, trabajadas y planificadas.
-- [Ausencias y vacaciones](ausencias-y-vacaciones.md) — solicitar vacaciones, consultar
-  los días que te quedan y eliminar unas vacaciones ya aprobadas.
+- [Home](tus-paginas-personales/home.md) — qué encuentras al entrar y qué se publica
+  en el tablón de anuncios.
+- [Área personal](tus-paginas-personales/area-personal.md) — tus documentos (nóminas,
+  certificados, evidencias de firma), tus habilidades, tu planificación del mes y tus
+  evaluaciones de desempeño.
 
-## Mis datos y mis documentos
-
-Tu información personal, laboral y la documentación que te afecta.
-
-- [Área personal](area-personal.md) — tus documentos (nóminas, certificados, evidencias
-  de firma), tus habilidades, tu planificación del mes y tus evaluaciones de desempeño.
-- [Mi contrato y datos laborales](mi-contrato-y-datos-laborales.md) — consultar tu
-  contrato actual y saber cuándo termina tu periodo de prueba o tu contrato temporal.
-
-## Solicitudes y gestiones
+## Instancias y solicitudes
 
 Lo que necesitas pedir o tramitar a través de la aplicación.
 
-- [Instancias y solicitudes](instancias-y-solicitudes.md) — enviar una solicitud a
-  Recursos Humanos, ver su estado y saber quién la valida.
-- [Reservas, viajes y gastos](reservas-viajes-y-gastos.md) — reservar una sala, un
-  vehículo o un equipo, registrar un gasto y solicitar un viaje de empresa.
+- [Tipos de instancia](instancias-y-solicitudes/tipos-de-instancia.md) — qué clases de
+  instancia existen y desde dónde se envía cada una.
+- [Solicitud, seguimiento y validación](instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md) —
+  enviar una solicitud a Recursos Humanos, ver su estado y saber quién la valida.
 
-## Mi entorno de trabajo
+## Fichajes
 
-Quién es quién en la empresa y cómo llega la información hasta ti.
+Todo lo relacionado con el registro de tu jornada.
 
-- [La pantalla de inicio](la-pantalla-de-inicio.md) — qué encuentras al entrar y qué se
-  publica en el tablón de anuncios.
-- [Equipos y estructura corporativa](equipos-y-estructura-corporativa.md) — quién es tu
-  responsable, a qué equipo perteneces y cómo consultar el organigrama.
-- [Noticias, documentación y comunicación](noticias-documentacion-y-comunicacion.md) —
-  documentos generales de la empresa, confirmación de documentos y sugerencias.
+- [Fichar](fichajes/fichar.md) — desde dónde puedes fichar y cómo hacerlo en la
+  oficina, en remoto o de viaje.
+- [Consulta y correcciones](fichajes/consulta-y-correcciones.md) — consultar el
+  detalle de tus fichajes del mes, descargar informes y corregir un fichaje mal
+  registrado.
 
-## Formación y salud
+## Ausencias y vacaciones
 
-- [Cursos y certificaciones](cursos-y-certificaciones.md) — inscribirte a un curso del
-  catálogo y consultar los cursos en los que ya estás.
-- [Vigilancia de la salud](vigilancia-de-la-salud.md) — apuntarte a una revisión médica
-  y consultar sus resultados.
+- [Solicitud y cancelación](ausencias-y-vacaciones/solicitud-y-cancelacion.md) —
+  solicitar vacaciones o ausencias y anular unas ya concedidas.
+- [Consulta de totales](ausencias-y-vacaciones/consulta-de-totales.md) — cuántos días
+  te quedan y de dónde sale tu total del año.
+
+## Planificación de turnos
+
+- [Mi planificación](planificacion-de-turnos/mi-planificacion.md) — tu turno de la
+  semana o el mes, y la diferencia entre horas teóricas, trabajadas y planificadas.
+
+## Mis datos laborales
+
+- [Mi contrato](mis-datos-laborales/mi-contrato.md) — consultar tu contrato actual y
+  saber cuándo termina tu periodo de prueba o tu contrato temporal.
+
+## Equipos y estructura corporativa
+
+Quién es quién en la empresa.
+
+- [Mi responsable](equipos-y-estructura-corporativa/mi-responsable.md) — quién es tu
+  responsable y qué implica.
+- [Mi equipo](equipos-y-estructura-corporativa/mi-equipo.md) — los equipos a los que
+  perteneces y cómo crear uno.
+- [Mi unidad organizativa](equipos-y-estructura-corporativa/mi-unidad-organizativa.md) —
+  en qué se diferencia de un equipo y dónde está el organigrama.
+
+## Vigilancia de la salud
+
+- [Mis vigilancias de salud](vigilancia-de-la-salud/mis-vigilancias-de-salud.md) —
+  apuntarte a una revisión médica y consultar sus resultados.
+
+## Cursos
+
+- [Cursos y certificaciones](cursos/cursos-y-certificaciones.md) — inscribirte a un
+  curso del catálogo y consultar los cursos en los que ya estás.
+
+## Reservas, viajes y gastos
+
+- [Reservas](reservas-viajes-y-gastos/reservas.md) — reservar una sala, un vehículo o
+  un equipo.
+- [Gastos](reservas-viajes-y-gastos/gastos.md) — registrar un gasto y añadirle líneas.
+- [Viajes](reservas-viajes-y-gastos/viajes.md) — solicitar un viaje de empresa.
+
+## Documentación y comunicación con la empresa
+
+- [Noticias](documentacion-y-comunicacion-con-la-empresa/noticias.md) — lo que la
+  empresa publica para contarte lo que pasa.
+- [Documentación](documentacion-y-comunicacion-con-la-empresa/documentacion.md) —
+  documentos generales de la empresa y cómo confirmarlos.
+- [Buzón de sugerencias](documentacion-y-comunicacion-con-la-empresa/buzon-de-sugerencias.md) —
+  cómo hacerle llegar a la empresa una propuesta o una queja.
 
 ## Recorrido recomendado
 
-1. Familiarízate con [la pantalla de inicio](la-pantalla-de-inicio.md) y el tablón de
-   anuncios.
-2. Aprende a [fichar y a revisar tu jornada](fichajes.md).
-3. Consulta [tu planificación](planificacion.md) para saber qué turno te toca.
-4. Revisa [tu contrato y tus datos laborales](mi-contrato-y-datos-laborales.md) y
-   [tus documentos](area-personal.md).
-5. Cuando lo necesites, [solicita vacaciones o una ausencia](ausencias-y-vacaciones.md)
-   o [envía una instancia a Recursos Humanos](instancias-y-solicitudes.md).
-6. Descubre el resto: [cursos](cursos-y-certificaciones.md),
-   [revisiones médicas](vigilancia-de-la-salud.md) y
-   [reservas, viajes y gastos](reservas-viajes-y-gastos.md).
+1. Familiarízate con [Home](tus-paginas-personales/home.md) y el tablón de anuncios.
+2. Aprende a [fichar](fichajes/fichar.md) y a
+   [revisar tu jornada](fichajes/consulta-y-correcciones.md).
+3. Consulta [tu planificación](planificacion-de-turnos/mi-planificacion.md) para saber
+   qué turno te toca.
+4. Revisa [tu contrato](mis-datos-laborales/mi-contrato.md) y
+   [tus documentos](tus-paginas-personales/area-personal.md).
+5. Cuando lo necesites,
+   [solicita vacaciones o una ausencia](ausencias-y-vacaciones/solicitud-y-cancelacion.md)
+   o
+   [envía una instancia a Recursos Humanos](instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md).
+6. Descubre el resto: [cursos](cursos/cursos-y-certificaciones.md),
+   [revisiones médicas](vigilancia-de-la-salud/mis-vigilancias-de-salud.md) y
+   [reservas, viajes y gastos](reservas-viajes-y-gastos/reservas.md).

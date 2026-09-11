@@ -17,9 +17,12 @@ hace por sí misma. La configuración de Gestor/RRHH (tablas maestras, nóminas,
 integraciones, informes de gestión) no entra. Si el artículo te lleva ahí, para y
 pregunta.
 
-**Estructura: 12 categorías, 12 artículos.** Cada categoría del temario es un solo
-artículo, y **cada pregunta del índice es un apartado `##`** con el texto de la
-pregunta. No hay capas ni carpetas por categoría.
+**Estructura: una carpeta por categoría, uno o varios artículos dentro.** Cada
+categoría del temario es una carpeta bajo `docs/`, y dentro va un artículo `.es.md`
+por cada bloque temático de esa categoría (una categoría con un solo bloque tiene un
+solo artículo). **Cada pregunta del índice es un apartado `##`** con el texto de la
+pregunta, dentro del artículo de su bloque. No hay más capas que
+categoría → artículo → pregunta.
 
 **Fuentes: el código y la persona que mantiene la documentación. Nada más.** No se
 deduce, no se rellena a ojo, no se copia de la ayuda antigua. Lo que no puedas

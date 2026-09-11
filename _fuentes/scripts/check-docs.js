@@ -43,16 +43,30 @@ function leerNav() {
 const nav = leerNav();
 if (!nav.length) errores.push('mkdocs.yml: el bloque `nav:` esta vacio');
 
-// --- ficheros de docs/ -------------------------------------------------------
-const articulos = fs
-  .readdirSync(DOCS, { withFileTypes: true })
-  .filter((d) => d.isFile() && d.name.endsWith('.md'))
-  .map((d) => d.name);
+// --- ficheros de docs/, recorriendo subcarpetas ------------------------------
+// Los artículos viven ahora en subcarpetas por categoría (docs/<carpeta>/<articulo>.es.md).
+// Se ignoran los recursos estructurales (docs_assets, stylesheets, javascripts).
+const CARPETAS_IGNORADAS = new Set(['docs_assets', 'stylesheets', 'javascripts']);
 
-const PATRON_NOMBRE = /^[a-z0-9]+(-[a-z0-9]+)*\.es\.md$/;
+function listarMarkdown(dir, base) {
+  const resultado = [];
+  for (const d of fs.readdirSync(dir, { withFileTypes: true })) {
+    if (d.isDirectory()) {
+      if (base === '' && CARPETAS_IGNORADAS.has(d.name)) continue;
+      resultado.push(...listarMarkdown(path.join(dir, d.name), base ? `${base}/${d.name}` : d.name));
+    } else if (d.isFile() && d.name.endsWith('.md')) {
+      resultado.push(base ? `${base}/${d.name}` : d.name);
+    }
+  }
+  return resultado;
+}
+
+const articulos = listarMarkdown(DOCS, '').sort();
+
+const PATRON_NOMBRE = /^([a-z0-9]+(-[a-z0-9]+)*\/)*[a-z0-9]+(-[a-z0-9]+)*\.es\.md$/;
 for (const nombre of articulos) {
   if (!PATRON_NOMBRE.test(nombre)) {
-    errores.push(`docs/${nombre}: el nombre debe ser kebab-case sin tildes ni espacios y terminar en .es.md`);
+    errores.push(`docs/${nombre}: el nombre (y sus carpetas) debe ser kebab-case sin tildes ni espacios y terminar en .es.md`);
   }
 }
 

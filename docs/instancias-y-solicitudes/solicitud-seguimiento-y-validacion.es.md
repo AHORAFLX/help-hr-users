@@ -1,36 +1,10 @@
-# Instancias y solicitudes
+# Solicitud, seguimiento y validación
 
-Una **instancia** es cualquier petición que envías desde Sebastian HR y que alguien
-tiene que aprobar: un cambio en tus datos personales, un fichaje que falta, unas
-vacaciones o una petición a Recursos Humanos. Todas quedan registradas con su estado,
-así que puedes seguirlas en cualquier momento y queda constancia de quién las aprobó.
+Toda instancia que envías sigue el mismo recorrido: la lanzas desde la pantalla de
+inicio, queda registrada con un estado y pasa por un circuito de aprobación.
 
 En este artículo verás cómo enviar una instancia, dónde consultar en qué punto está y
 quién tiene que darle el visto bueno.
-
-
-## ¿Qué tipos de instancias hay?
-
-Hay dos grupos: los que trae Sebastian HR y los que define tu empresa.
-
-### Los tipos que trae el producto
-
-| Para qué sirve | Desde dónde se envía |
-|---|---|
-| Cambiar tus datos personales | Botón **+ > Cambiar datos personales** |
-| Añadir un fichaje que falta | Botón **+ > Nuevo fichaje** |
-| Corregir o anular un fichaje mal registrado | Botón **+ > Modificar fichaje** |
-| Pedir vacaciones | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
-| Pedir una ausencia | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
-| Anular unas vacaciones o una ausencia ya concedidas | [Ausencias y vacaciones](ausencias-y-vacaciones.md) |
-
-### Los tipos que define tu empresa
-
-Son los **tipos de solicitud**, y los eliges en el desplegable **Tipo** al enviar una
-**Nueva solicitud**. Cada empresa monta los suyos según lo que su plantilla necesita
-pedir a Recursos Humanos —certificados, cambios de situación, peticiones de material—,
-así que la lista que veas tú no tiene por qué coincidir con la de otra empresa.
-
 
 ## ¿Cómo envío una instancia/solicitud a RRHH (certificado, cambio de datos, etc.)?
 
@@ -41,7 +15,7 @@ las peticiones que puedes enviar:
   certificado.
 - **Cambiar datos personales** — para pedir que se corrijan tus datos.
 - **Nuevo fichaje** y **Modificar fichaje** — para corregir tus fichajes. Los tienes
-  explicados en [Fichajes](fichajes.md).
+  explicados en [Consulta y correcciones](../fichajes/consulta-y-correcciones.md).
 
 
 
@@ -66,7 +40,7 @@ Para enviar una solicitud a Recursos Humanos:
 
 Las vacaciones y las ausencias no se piden desde aquí, aunque también generan una
 instancia: consulta
-[Ausencias y vacaciones](ausencias-y-vacaciones.md).
+[Solicitud y cancelación](../ausencias-y-vacaciones/solicitud-y-cancelacion.md).
 
 ## ¿Cómo veo el estado de mis instancias pendientes?
 
@@ -93,6 +67,8 @@ completo y, si te la han denegado, con el motivo que escribió quien la rechazó
 Cuando una instancia tuya cambia de estado recibes un **correo electrónico** con el
 tipo, la fecha, el nuevo estado y los comentarios de quien la ha gestionado. No hace
 falta que estés pendiente del listado.
+
+<!-- PENDIENTE: en la base de datos los nombres de los tipos de instancia y de los estados están guardados en inglés (Vacation Request, Add Time Record, Pending, Approved, Denied) y el listado no los pasa por el traductor. ¿Cómo se ven realmente en pantalla? Si salen en inglés, hay que escribirlos tal cual en este artículo y abrir la incidencia de traducción. -->
 
 ### ¿Puedo eliminar una instancia que ya he enviado?
 
@@ -132,15 +108,15 @@ toca el turno.
 Si eres tú quien valida las instancias de otras personas, las tienes agrupadas en la
 tarjeta de instancias de tu pantalla de inicio, en el contador **Administrar**.
 
-
-<!-- PENDIENTE: en la base de datos los nombres de los tipos de instancia y de los estados están guardados en inglés (Vacation Request, Add Time Record, Pending, Approved, Denied) y el listado no los pasa por el traductor. ¿Cómo se ven realmente en pantalla? Si salen en inglés, hay que escribirlos tal cual en este artículo y abrir la incidencia de traducción. -->
-
-<!-- PENDIENTE: el producto llama a esto "Instancias" en el menú de Área personal, pero "Solicitudes" en la pantalla de inicio y en otros textos. ¿Qué término unificamos en la documentación? -->
-
 ## Artículos relacionados
 
-- [Fichajes](fichajes.md) — cómo pedir el alta o la corrección de un fichaje.
-- [Ausencias y vacaciones](ausencias-y-vacaciones.md) — cómo solicitar días y cómo
-  anularlos.
-- [La pantalla de inicio](la-pantalla-de-inicio.md) — dónde está el botón **+** y la
-  tarjeta de instancias.
+- [Tipos de instancia](tipos-de-instancia.md) — qué clases de instancia existen y
+  desde dónde se envía cada una.
+- [Consulta y correcciones](../fichajes/consulta-y-correcciones.md) — cómo pedir el
+  alta o la corrección de un fichaje.
+- [Solicitud y cancelación](../ausencias-y-vacaciones/solicitud-y-cancelacion.md) —
+  cómo solicitar días y cómo anularlos.
+- [Mi responsable](../equipos-y-estructura-corporativa/mi-responsable.md) — quién
+  suele aprobar lo que pides.
+- [Home](../tus-paginas-personales/home.md) — dónde está el botón **+** y la tarjeta
+  de instancias.

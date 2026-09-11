@@ -1,4 +1,4 @@
-# La pantalla de inicio
+# Home
 
 Es lo primero que ves al entrar en Sebastian HR y el sitio al que vuelves con
 **Hogar**. Reúne lo que necesitas a diario —fichar, mirar tu semana, ver qué te queda
@@ -22,9 +22,9 @@ tarjetas de resumen:
 
 Cada tarjeta tiene un botón **+** con las peticiones que puedes lanzar desde ahí mismo:
 cambiar tus datos personales, pedir un
-[fichaje nuevo o la corrección de uno](fichajes.md#como-reportocorrijo-un-fichaje-que-quedo-mal-registrado-falta-salida-hora-erronea),
-enviar una [instancia](instancias-y-solicitudes.md), o
-[solicitar y anular vacaciones o ausencias](ausencias-y-vacaciones.md).
+[fichaje nuevo o la corrección de uno](../fichajes/consulta-y-correcciones.md#como-reportocorrijo-un-fichaje-que-quedo-mal-registrado-falta-salida-hora-erronea),
+enviar una [instancia](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md), o
+[solicitar y anular vacaciones o ausencias](../ausencias-y-vacaciones/solicitud-y-cancelacion.md).
 
 !!! warning "El círculo amarillo es un aviso de días por revisar"
     Si en tus últimos días hay algo que no cuadra —falta un fichaje, la entrada y la
@@ -34,7 +34,7 @@ enviar una [instancia](instancias-y-solicitudes.md), o
     Púlsalo y verás esos días. Repásalos y, si de verdad falta algo o está mal, pide
     la corrección con **Nuevo fichaje** o **Modificar fichaje** desde el botón **+**:
     tú no editas tus fichajes, los solicitas. Lo tienes paso a paso en
-    [Fichajes](fichajes.md#como-reportocorrijo-un-fichaje-que-quedo-mal-registrado-falta-salida-hora-erronea).
+    [Consulta y correcciones](../fichajes/consulta-y-correcciones.md#como-reportocorrijo-un-fichaje-que-quedo-mal-registrado-falta-salida-hora-erronea).
 
 <!-- TODO:captura: cabecera de la pantalla de inicio con el saludo y las tarjetas Mis instancias y Vacaciones y ausencias, con el botón + desplegado -->
 
@@ -45,14 +45,14 @@ Pulsando los contadores llegas directo al listado que hay detrás.
 A la derecha del saludo tienes el fichaje: te dice si estás dentro o fuera, la hora de
 tu último fichaje y cuánto llevas del horario de hoy. Es una de las vías para fichar
 desde el ordenador o desde el móvil, y la tienes explicada en
-[Fichajes](fichajes.md#desde-donde-puedo-fichar).
+[Fichar](../fichajes/fichar.md#desde-donde-puedo-fichar).
 
 ### Planificación de la semana
 
 Una tarjeta por cada día de la semana, con el turno que te toca, las horas previstas y
 la diferencia con lo que llevas trabajado. El día de hoy va marcado como **Hoy** y, si
 pulsas un día ya pasado, se abren tus fichajes de esa jornada. Lo tienes en detalle en
-[Planificación](planificacion.md).
+[Mi planificación](../planificacion-de-turnos/mi-planificacion.md).
 
 ### Tablón
 
@@ -67,7 +67,7 @@ saber de un vistazo con quién puedes contar en este momento.
 
 ### Documentos
 
-Cuatro accesos rápidos a la [documentación de la empresa](noticias-documentacion-y-comunicacion.md):
+Cuatro accesos rápidos a la [documentación de la empresa](../documentacion-y-comunicacion-con-la-empresa/documentacion.md):
 
 | Acceso | Qué abre |
 |---|---|
@@ -94,11 +94,11 @@ quedarte solo con lo que te interese:
 
 | Tipo | Qué recoge |
 |---|---|
-| **Noticias** | Las [noticias](noticias-documentacion-y-comunicacion.md) publicadas que van dirigidas a ti. |
-| **Cursos** | Los [cursos](cursos-y-certificaciones.md) del catálogo con la inscripción abierta. |
+| **Noticias** | Las [noticias](../documentacion-y-comunicacion-con-la-empresa/noticias.md) publicadas que van dirigidas a ti. |
+| **Cursos** | Los [cursos](../cursos/cursos-y-certificaciones.md) del catálogo con la inscripción abierta. |
 | **Eventos** | Los eventos que organiza la empresa. |
-| **Salud** | Las [convocatorias de revisión médica](vigilancia-de-la-salud.md) abiertas o a las que te han convocado. |
-| **Sugerencias** | Las [sugerencias](noticias-documentacion-y-comunicacion.md#quien-puede-crear-una-sugerencia-y-para-que-se-usan) públicas de tus compañeros, durante sus dos primeras semanas. |
+| **Salud** | Las [convocatorias de revisión médica](../vigilancia-de-la-salud/mis-vigilancias-de-salud.md) abiertas o a las que te han convocado. |
+| **Sugerencias** | Las [sugerencias](../documentacion-y-comunicacion-con-la-empresa/buzon-de-sugerencias.md#quien-puede-crear-una-sugerencia-y-para-que-se-usan) públicas de tus compañeros, durante sus dos primeras semanas. |
 
 <!-- TODO:captura: tablón de la pantalla de inicio con las píldoras de filtro y varias publicaciones de tipos distintos -->
 
@@ -128,10 +128,10 @@ el formulario correspondiente:
 
 | Opción | Qué creas |
 |---|---|
-| **Artículo** | Una [noticia](noticias-documentacion-y-comunicacion.md#para-que-se-usan-las-noticias) para tus compañeros. |
-| **Curso o evento** | Una convocatoria del [catálogo de cursos](cursos-y-certificaciones.md) o un evento de empresa. |
-| **Sugerencia** | Una [sugerencia](noticias-documentacion-y-comunicacion.md#quien-puede-crear-una-sugerencia-y-para-que-se-usan) para el buzón de Comunicación. |
-| **Vigilancia** | Una [convocatoria de revisión médica](vigilancia-de-la-salud.md). |
+| **Artículo** | Una [noticia](../documentacion-y-comunicacion-con-la-empresa/noticias.md#para-que-se-usan-las-noticias) para tus compañeros. |
+| **Curso o evento** | Una convocatoria del [catálogo de cursos](../cursos/cursos-y-certificaciones.md) o un evento de empresa. |
+| **Sugerencia** | Una [sugerencia](../documentacion-y-comunicacion-con-la-empresa/buzon-de-sugerencias.md#quien-puede-crear-una-sugerencia-y-para-que-se-usan) para el buzón de Comunicación. |
+| **Vigilancia** | Una [convocatoria de revisión médica](../vigilancia-de-la-salud/mis-vigilancias-de-salud.md). |
 
 Cada tipo se rellena igual que desde su pantalla, y aparecerá en el tablón de quien
 le corresponda según a quién vaya dirigido.
@@ -148,11 +148,11 @@ aquí.*
 
 ## Artículos relacionados
 
-- [Fichajes](fichajes.md) — fichar desde aquí y corregir un fichaje.
-- [Planificación](planificacion.md) — tu turno de la semana y del mes.
-- [Ausencias y vacaciones](ausencias-y-vacaciones.md) — pedir días y consultar los que
+- [Fichar](../fichajes/fichar.md) — fichar desde aquí y corregir un fichaje.
+- [Mi planificación](../planificacion-de-turnos/mi-planificacion.md) — tu turno de la semana y del mes.
+- [Solicitud y cancelación](../ausencias-y-vacaciones/solicitud-y-cancelacion.md) — pedir días y consultar los que
   te quedan.
-- [Instancias y solicitudes](instancias-y-solicitudes.md) — el botón **+** y el estado
+- [Solicitud, seguimiento y validación](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md) — el botón **+** y el estado
   de tus peticiones.
-- [Noticias, documentación y comunicación](noticias-documentacion-y-comunicacion.md) —
+- [Documentación](../documentacion-y-comunicacion-con-la-empresa/documentacion.md) —
   las noticias y los documentos que asoman en el tablón.

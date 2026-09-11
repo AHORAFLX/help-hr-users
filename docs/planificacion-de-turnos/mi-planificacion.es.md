@@ -81,10 +81,10 @@ semana. Si necesitas un cambio, habla con tu responsable o con Recursos Humanos.
 Tu planificación es la referencia con la que se mide tu jornada:
 
 - Marca las horas que se te exigen cada día, y por tanto tu **progreso** y tu
-  **diferencia** en [Fichajes](fichajes.md).
+  **diferencia** en [Fichar](../fichajes/fichar.md).
 - Determina la franja en la que se espera que fiches. Según la configuración de tu
   empresa, puede que necesites tener turno asignado para poder fichar un día.
-- Es lo que se descuenta cuando pides [ausencias o vacaciones](ausencias-y-vacaciones.md):
+- Es lo que se descuenta cuando pides [ausencias o vacaciones](../ausencias-y-vacaciones/solicitud-y-cancelacion.md):
   un día de vacaciones deja de contar horas.
 
 
@@ -116,12 +116,12 @@ fichado menos de lo exigido sale en rojo; si has cumplido o has hecho de más, e
 - En la **tarjeta de la semana** de la pantalla de inicio: los días pasados muestran tus
   horas trabajadas y los días futuros, las que tienes previsto trabajar.
 - En el **listado mensual** de tu jornada, con el detalle día a día y el resumen del mes.
-  Lo tienes explicado en [Fichajes](fichajes.md).
+  Lo tienes explicado en [Fichar](../fichajes/fichar.md).
 
 ## Artículos relacionados
 
-- [Fichajes](fichajes.md) — cómo fichar y cómo consultar el detalle y los totales de tu
+- [Fichar](../fichajes/fichar.md) — cómo fichar y cómo consultar el detalle y los totales de tu
   jornada.
-- [Ausencias y vacaciones](ausencias-y-vacaciones.md) — cómo afectan a tu planificación.
-- [Mi contrato y datos laborales](mi-contrato-y-datos-laborales.md) — tu jornada
+- [Solicitud y cancelación](../ausencias-y-vacaciones/solicitud-y-cancelacion.md) — cómo afectan a tu planificación.
+- [Mi contrato](../mis-datos-laborales/mi-contrato.md) — tu jornada
   contratada.

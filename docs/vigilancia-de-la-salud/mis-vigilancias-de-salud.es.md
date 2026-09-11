@@ -31,7 +31,7 @@ Al confirmar quedas apuntado y la convocatoria pasa a tu lista de
 !!! note "Las convocatorias privadas las gestiona Recursos Humanos"
     Las tarjetas marcadas como **(Privado)** no traen botón de inscripción: a esas te
     apunta Recursos Humanos. Si crees que te corresponde una y no apareces, pídelo con
-    una [instancia](instancias-y-solicitudes.md).
+    una [instancia](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md).
 
 En el detalle de cada convocatoria tienes además un espacio de comentarios, por si
 quieres preguntar algo sobre ella.
@@ -90,7 +90,7 @@ nuevo.
 
 ## Artículos relacionados
 
-- [Instancias y solicitudes](instancias-y-solicitudes.md) — para pedir a Recursos
+- [Solicitud, seguimiento y validación](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md) — para pedir a Recursos
   Humanos lo que no puedes hacer tú, como entrar en una convocatoria privada.
-- [Ausencias y vacaciones](ausencias-y-vacaciones.md) — cómo pedir tus días si necesitas
+- [Solicitud y cancelación](../ausencias-y-vacaciones/solicitud-y-cancelacion.md) — cómo pedir tus días si necesitas
   ausentarte.
