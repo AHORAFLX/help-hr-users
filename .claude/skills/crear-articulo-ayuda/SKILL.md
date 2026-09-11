@@ -48,10 +48,8 @@ menor de texto):
   pestañas o un diagrama.
 - `templates/articulo.md` — esqueleto listo para copiar.
 
-Como referencia de forma: `ejemplo-index.md` (raíz del repo) para la portada, y
-`docs/fichajes.es.md` para el estilo de un artículo. Ojo: `ejemplo-index.md` es solo
-un molde de estructura — su contenido es de Gestor/RRHH y su prosa va sin tildes;
-la nuestra las lleva.
+Como referencia de forma: `docs/index.es.md` para la portada, y
+`docs/fichajes.es.md` para el estilo de un artículo.
 
 ## Flujo de trabajo
 
