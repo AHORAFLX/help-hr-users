@@ -4,8 +4,9 @@ Sebastian HR sabe quién es quién en la empresa: de quién dependes, con qué p
 compartes equipo y cómo se organiza la plantilla. Todo eso lo mantiene Recursos
 Humanos; tú lo consultas.
 
-En este artículo verás quién es tu responsable y qué implica, dónde están tus equipos y
-cómo llegar al organigrama de la empresa.
+En este artículo verás quién es tu responsable y qué implica, dónde están tus equipos,
+en qué se diferencian de tu unidad organizativa y cómo llegar al organigrama de la
+empresa.
 
 ## ¿Quién es mi responsable y qué significa?
 
@@ -59,18 +60,34 @@ Cada tarjeta trae además unos botones:
 - **Vacaciones** — el resumen de vacaciones del año de todo el equipo. Solo lo ves si
   eres el responsable de ese equipo.
 
-!!! tip "Un equipo es más que una lista de nombres"
-    Tu empresa puede usar los equipos para dirigir noticias y documentación solo a sus
-    miembros, y para decidir quién aprueba las peticiones de esas personas. Si te llega
-    una noticia que otros compañeros no ven, suele ser por eso.
+!!! tip "Si te llega una noticia que otros compañeros no ven"
+    Tu empresa puede dirigir noticias y documentación solo a los miembros de un equipo
+    concreto. Suele ser el motivo.
 
-### Tu equipo no es tu unidad organizativa
+## ¿Es lo mismo mi equipo y mi unidad organizativa?
 
-El equipo es una agrupación de personas que puede cruzar departamentos. La unidad
-organizativa es tu sitio dentro de la estructura de la empresa. La tuya está en
-**Área personal > Unidades organizativas**: verás el nombre de la unidad, tu puesto en
+No, son dos cosas distintas y puedes estar en varias a la vez.
+
+Tu **unidad organizativa** es tu sitio dentro de la estructura de la empresa. La decide
+Recursos Humanos, tienes una sola en cada momento y de ella dependen cosas que notas en
+el día a día: los turnos y la planificación que te toca, y las personas que supervisan tu
+trabajo.
+
+Un **equipo** es una agrupación de personas, que puede juntar a gente de distintas
+unidades y centros. Puedes estar en varios, con un responsable propio cada uno, y sirven
+sobre todo para trabajar juntos: ver de un vistazo quién está de vacaciones, escribirse o
+recibir las noticias y la documentación dirigidas al equipo.
+
+|  | Equipo | Unidad organizativa |
+|---|---|---|
+| ¿Cuántos puedes tener? | Varios a la vez | Una en cada momento |
+| Dónde lo consultas | **Área personal > Equipos** | **Área personal > Unidades organizativas** |
+| Qué depende de ello | Noticias y documentación del equipo, y quién aprueba lo que pides | Tus turnos y tu planificación, y quién te supervisa |
+
+En **Área personal > Unidades organizativas** verás el nombre de la unidad, tu puesto en
 ella, desde cuándo estás y una etiqueta **Actual**, **Histórico** o **Futuro** según sea
-la de hoy, una anterior o un cambio que ya está previsto.
+la de hoy, una anterior o un cambio que ya está previsto. Ahí tienes también tu recorrido
+por la empresa: cada unidad por la que has pasado, con sus fechas.
 
 !!! note "Unidades organizativas es del modo PRO"
     Si tu empresa trabaja en modo LITE, esta entrada no aparece en tu **Área personal**.
