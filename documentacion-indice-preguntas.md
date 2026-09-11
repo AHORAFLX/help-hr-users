@@ -11,12 +11,12 @@ modo PRO.
 - ¿Qué veo en la home?
 - ¿Qué veo en el tablón de anuncios?
 
-## 01 · Área personal
+## 01 · Área personal (Hecho)
 
 - ¿Desde dónde veo o descargo mis documentos (nóminas, certificados, evidencia de firma, etc.)?
 - ¿Cómo registro o consulto mis habilidades/competencias?
 - ¿Cómo veo mi planificación del mes (turnos, festivos, ausencias, vacaciones)?
-- ¿Que son las evaluaciones de desempeño?
+- ¿Qué son las evaluaciones de desempeño?
 
 
 ## 02 · Instancias y solicitudes (Hecho)

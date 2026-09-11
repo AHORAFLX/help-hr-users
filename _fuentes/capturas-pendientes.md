@@ -16,6 +16,10 @@ son de la interfaz anterior.
 |---|---|---|---|
 | `la-pantalla-de-inicio` | ¿Qué veo en la home? / Tu saludo y tus dos tarjetas | Cabecera de la pantalla de inicio con el saludo y las tarjetas **Mis instancias** y **Vacaciones y ausencias**, con el botón **+** desplegado | Pendiente |
 | `la-pantalla-de-inicio` | ¿Qué veo en el tablón de anuncios? | Tablón de la pantalla de inicio con las píldoras de filtro y varias publicaciones de tipos distintos | Pendiente |
+| `area-personal` | ¿Desde dónde veo o descargo mis documentos? | Bloque **Mis documentos** del **Área personal**, con las carpetas y su contador arriba y varias líneas de documento con los botones de ver y descargar | Pendiente |
+| `area-personal` | ¿Cómo registro o consulto mis habilidades/competencias? | Panel de edición de **Habilidades**, con la lista de habilidades, los cinco círculos de nivel y la cruz roja para quitar una | Pendiente |
+| `area-personal` | ¿Cómo veo mi planificación del mes? | Calendario mensual del **Área personal** con varios turnos, un festivo y unos días de vacaciones | Pendiente |
+| `area-personal` | ¿Qué son las evaluaciones de desempeño? | Detalle de una evaluación de desempeño con el tipo, la fecha, el resultado, **Evaluado por** y las preguntas con sus respuestas | Pendiente |
 | `fichajes` | ¿Cómo ficho…? / En la oficina | Pantalla del Punto de acceso con el teclado numérico y el campo de código | Pendiente |
 | `fichajes` | ¿Cómo ficho…? / De viaje | Botón de fichaje de la pantalla de inicio | Pendiente |
 | `fichajes` | ¿Dónde veo el detalle de mis fichajes del mes? | Listado mensual de **Jornada laboral**, una fila por día, con la columna de Progreso | Pendiente |
