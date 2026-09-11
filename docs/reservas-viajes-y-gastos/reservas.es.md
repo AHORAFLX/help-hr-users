@@ -43,7 +43,7 @@ recurso, el tipo y la franja horaria, te pide la **Fecha de reserva** y la
 **Fecha de finalización de la reserva**, y te deja restringir los días: desactiva
 **Todos los días de la semana** y elige cuáles en **Días de la semana**.
 
-!!! note "Si un solo día da conflicto, no se guarda ninguno"
+!!! info "Si un solo día da conflicto, no se guarda ninguno"
     Antes de crear nada comprueba el periodo entero. Si alguna fecha choca con otra
     reserva del mismo recurso, cancela la operación completa y te muestra la lista de
     días en conflicto para que ajustes las fechas y lo vuelvas a intentar.

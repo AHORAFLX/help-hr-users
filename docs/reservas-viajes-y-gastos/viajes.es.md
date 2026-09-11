@@ -23,7 +23,7 @@ con esa fecha ya puesta.
 
 <!-- TODO:captura: formulario de solicitud de viaje con las fechas y las tres casillas de Transporte, Hotel y Coche de alquiler -->
 
-!!! note "No puedes tener dos viajes solapados"
+!!! info "No puedes tener dos viajes solapados"
     Si ya tienes un viaje que pisa esas fechas, la solicitud no se guarda. Y la fecha
     de llegada no puede ser anterior a la de salida.
 

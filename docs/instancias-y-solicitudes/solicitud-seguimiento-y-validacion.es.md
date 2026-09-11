@@ -33,7 +33,7 @@ Para enviar una solicitud a Recursos Humanos:
 
 <!-- TODO:captura: menú desplegable del botón + de la pantalla de inicio con las opciones de nueva petición -->
 
-!!! note "Las opciones que ves dependen de tu empresa"
+!!! info "Las opciones que ves dependen de tu empresa"
     **Nueva solicitud** solo aparece si tu empresa ha definido tipos de solicitud, y
     lo mismo pasa con el resto de opciones del botón **+**. Si echas en falta alguna,
     pregunta a Recursos Humanos.
@@ -101,7 +101,7 @@ concretas designadas para ese tipo. Lo que conviene que sepas es cómo se compor
 Cada persona que tiene que validar algo tuyo recibe un aviso por correo en cuanto le
 toca el turno.
 
-!!! note "Si no sabes quién valida tus peticiones"
+!!! info "Si no sabes quién valida tus peticiones"
     No se muestra en tu listado. Pregunta a Recursos Humanos: es una configuración de
     tu empresa.
 

@@ -28,7 +28,7 @@ Al confirmar quedas apuntado y la convocatoria pasa a tu lista de
     máximo de plazas, la inscripción no llega a guardarse aunque pulses el botón.
     Vuelve a la lista y comprueba el estado y el contador de plazas de la tarjeta.
 
-!!! note "Las convocatorias privadas las gestiona Recursos Humanos"
+!!! info "Las convocatorias privadas las gestiona Recursos Humanos"
     Las tarjetas marcadas como **(Privado)** no traen botón de inscripción: a esas te
     apunta Recursos Humanos. Si crees que te corresponde una y no apareces, pídelo con
     una [instancia](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md).
@@ -84,7 +84,7 @@ línea tiene un icono de clip. Ahí están los documentos de tu inscripción: lo
 adjuntado tú y los que haya subido Recursos Humanos. Es también donde puedes añadir uno
 nuevo.
 
-!!! note "El resultado de tus compañeros no se ve"
+!!! info "El resultado de tus compañeros no se ve"
     En la lista de personas apuntadas ves quién más asiste, pero no el resultado de cada
     una: eso solo lo ve Recursos Humanos.
 

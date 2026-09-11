@@ -79,7 +79,7 @@ Cuatro accesos rápidos a la [documentación de la empresa](../documentacion-y-c
 Debajo, en **Sin leer**, están las categorías con documentos que todavía no has abierto
 y cuántos te faltan de cada una. Con **Ver todo** pasas a la biblioteca completa.
 
-!!! note "No todos veis lo mismo"
+!!! info "No todos veis lo mismo"
     Los bloques que aparecen dependen de lo que tenga contratado y configurado tu
     empresa, y de tus permisos. Si echas en falta alguno, pregunta a Recursos Humanos.
 

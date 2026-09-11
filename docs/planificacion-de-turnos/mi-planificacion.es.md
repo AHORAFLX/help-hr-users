@@ -56,7 +56,7 @@ Los días que no son de trabajo aparecen con un código en lugar del turno:
 Tus **días libres** no aparecen en el calendario: los reconoces porque el día se queda
 vacío.
 
-!!! note "Si un día no cuadra"
+!!! info "Si un día no cuadra"
     El calendario refleja lo que tienes asignado en ese momento. Si ves un turno que no
     te corresponde o un día que debería ser libre, avisa a tu responsable o a Recursos
     Humanos: tú no puedes cambiar tu planificación desde la aplicación.

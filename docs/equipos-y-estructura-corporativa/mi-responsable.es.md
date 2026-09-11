@@ -29,7 +29,7 @@ Para saber quién es tu responsable, mira el
 [organigrama](mi-unidad-organizativa.md#como-veo-el-organigrama-estructura-corporativa-de-la-empresa):
 tu ficha cuelga directamente de la suya.
 
-!!! note "Si crees que tu responsable no es el correcto"
+!!! info "Si crees que tu responsable no es el correcto"
     No puedes corregirlo por tu cuenta. Envía una
     [instancia a Recursos Humanos](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md)
     o habla con tu responsable actual: mientras el dato no se cambie, tus peticiones

@@ -50,7 +50,7 @@ Fuente: `https://ayuda.ahora.es/help/1.0/Components/BasicMarkdown/` y
 ## Avisos / admonitions
 
 ```markdown
-!!! note "Título opcional"
+!!! info "Título opcional"
     Contenido de la nota. Puede tener varias líneas.
 ```
 

@@ -3,7 +3,7 @@
 Párrafo introductorio breve: qué resuelve este artículo, dirigido a la persona
 empleada y en segunda persona. Sin repetir el título.
 
-!!! note "Antes de empezar"
+!!! info "Antes de empezar"
     Permisos, datos o configuraciones que tienen que existir para que puedas hacer
     esto. Elimina el bloque si no hace falta.
 

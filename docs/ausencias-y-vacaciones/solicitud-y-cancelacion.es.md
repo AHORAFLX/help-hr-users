@@ -34,7 +34,7 @@ cualquier otra: consulta
 [Solicitud, seguimiento y validación](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md).
 Algunos tipos no necesitan aprobación y se dan por buenos en cuanto los envías.
 
-!!! note "Los tipos que puedes pedir dependen de tu empresa"
+!!! info "Los tipos que puedes pedir dependen de tu empresa"
     En el desplegable **Tipo** solo aparecen las clases de ausencia que tu empresa ha
     marcado como solicitables. Si echas en falta alguna, pregunta a Recursos Humanos.
 
@@ -80,7 +80,7 @@ Es una solicitud como las demás: tiene que aprobarla quien corresponda. Cuando 
 aprueba, esos días pasan a **Cancelado** en tu calendario y vuelven a tu saldo
 disponible.
 
-!!! note "Algunos días no se pueden quitar"
+!!! info "Algunos días no se pueden quitar"
     Aunque la petición esté pendiente, hay días que Sebastian HR no deja eliminar:
     porque ya han entrado en una nómina, porque quedan fuera del plazo que tu empresa
     admite para editar, o porque tienes fichajes registrados en ellos. En todos los

@@ -80,7 +80,7 @@ la nuestra las lleva.
   subdividir una respuesta larga. **Nunca `####`**: con `toc_depth: 3` no sale en el
   índice de la página.
 - Los pasos, en listas numeradas. Los requisitos o avisos importantes, en admonitions
-  (`!!! note`, `!!! warning`, `!!! tip`).
+  (`!!! info`, `!!! warning`, `!!! tip`).
 - **Llama a las cosas como las llama la aplicación**, con el término de
   `_fuentes/glosario-ui.es.md`. Si la app dice "Jornada", el artículo dice "Jornada".
 - Los recorridos de menú, en negrita y con `>`: **Gestión Mensual > Mis marcas**, con

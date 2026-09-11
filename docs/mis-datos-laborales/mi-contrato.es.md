@@ -7,7 +7,7 @@ aplica. Puedes consultarlo cuando quieras, pero no modificarlo.
 En este artículo verás dónde está tu contrato, qué ocurre si tienes más de uno y cómo
 saber cuándo termina tu periodo de prueba o tu contrato temporal.
 
-!!! note "Puede que tú veas menos información"
+!!! info "Puede que tú veas menos información"
     Este artículo describe todos los datos que puede llegar a mostrar un contrato. Si al
     abrir el tuyo no encuentras alguno de los que se explican aquí —tu porcentaje de
     jornada o la fecha en que acaba tu periodo de prueba, por ejemplo—, es que la
@@ -43,7 +43,7 @@ cierre— tienes el histórico de esos cambios debajo del detalle. Y si Recursos
 adjuntado documentos a tu contrato, los ves en el contador **Documentos**: púlsalo y se
 abre la lista.
 
-!!! note "Tu contrato es de solo lectura"
+!!! info "Tu contrato es de solo lectura"
     Puedes consultarlo y descargar sus documentos, pero no editarlo. Si algún dato no
     cuadra —las fechas, tu jornada, tu categoría—, no lo corrijas por tu cuenta: envía una
     [instancia a Recursos Humanos](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md) o habla con tu responsable.

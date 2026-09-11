@@ -20,7 +20,7 @@ Según lo que tenga configurado tu empresa, puedes fichar por tres vías:
 
 Solo existen dos tipos de fichajes: **Entrada** y **Salida**. Las pausas se calculan en funcion de los descansos indicados en el turno.
 
-!!! note "No todas las vías están siempre disponibles"
+!!! info "No todas las vías están siempre disponibles"
     Cada empresa decide qué vías activa. Si echas en falta una opción, pregunta a
     Recursos Humanos.
 
@@ -53,7 +53,7 @@ de inicio**.
 
 <!-- TODO:captura: botón de fichaje de la pantalla de inicio -->
 
-!!! note "Si el sistema no te deja fichar"
+!!! info "Si el sistema no te deja fichar"
     Tu empresa puede exigir algunas condiciones para aceptar un fichaje, como tener
     contrato activo o turno asignado ese día. Si alguna no se cumple, verás un aviso
     con el motivo y el fichaje no se guarda.

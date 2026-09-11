@@ -33,7 +33,7 @@ documentos personales*.
 
 <!-- TODO:captura: bloque Mis documentos del Área personal, con las carpetas y su contador arriba y varias líneas de documento con los botones de ver y descargar -->
 
-!!! note "Los documentos los publica Recursos Humanos"
+!!! info "Los documentos los publica Recursos Humanos"
     Tú los consultas y te los descargas, pero aquí no puedes subir ni borrar nada. Si
     echas en falta una nómina o necesitas un certificado, pídelo con una
     [instancia](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md).
@@ -82,7 +82,7 @@ Cada nivel que pulsas se guarda al momento: no hay botón de guardar.
 
 <!-- TODO:captura: panel de edición de Habilidades, con la lista de habilidades, los cinco círculos de nivel y la cruz roja para quitar una -->
 
-!!! note "Si no te aparece ninguna habilidad"
+!!! info "Si no te aparece ninguna habilidad"
     La lista de habilidades y sus categorías las crea tu empresa. Si todavía no ha
     definido ninguna, no tendrás nada que rellenar: en cuanto las cree, podrás informar
     tus niveles.
@@ -102,7 +102,7 @@ Qué significa cada código, de dónde sale el turno que tienes asignado y en qu
 diferencian tus horas planificadas, teóricas y trabajadas lo tienes explicado en
 [Mi planificación](../planificacion-de-turnos/mi-planificacion.md#como-veo-que-turno-tengo).
 
-!!! note "El calendario es de consulta"
+!!! info "El calendario es de consulta"
     Tu planificación no la cambias tú. Si ves un día que no te cuadra, avisa a tu
     responsable o a Recursos Humanos.
 
@@ -125,7 +125,7 @@ rellenado, unas notas de **Mejora**. Las tuyas están en
 
 <!-- TODO:captura: detalle de una evaluación de desempeño con el tipo, la fecha, el resultado, Evaluado por y las preguntas con sus respuestas -->
 
-!!! note "Las evaluaciones no las rellenas tú"
+!!! info "Las evaluaciones no las rellenas tú"
     Tú las consultas: las cumplimenta quien te evalúa. Las preguntas y los tipos de
     evaluación los define tu empresa, así que ni el número de preguntas ni los
     resultados posibles son iguales en todas partes.

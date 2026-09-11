@@ -31,7 +31,7 @@ ella, desde cuándo estás y una etiqueta **Actual**, **Histórico** o **Futuro*
 la de hoy, una anterior o un cambio que ya está previsto. Ahí tienes también tu recorrido
 por la empresa: cada unidad por la que has pasado, con sus fechas.
 
-!!! note "Si no encuentras esta entrada"
+!!! info "Si no encuentras esta entrada"
     Que **Unidades organizativas** aparezca en tu **Área personal** depende de la
     configuración que haya hecho tu empresa. Si no la ves, pregunta a Recursos Humanos.
 
@@ -48,7 +48,7 @@ puesto, su departamento y su área. Solo salen las personas activas.
 
 Si el organigrama se te queda pequeño, usa el botón de pantalla completa del bloque.
 
-!!! note "Si no encuentras la entrada"
+!!! info "Si no encuentras la entrada"
     Qué entradas de menú ves depende de cómo lo tenga configurado tu empresa. Si
     **Estructura corporativa** no te aparece, pregunta a Recursos Humanos.
 

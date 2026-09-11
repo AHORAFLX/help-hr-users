@@ -21,7 +21,7 @@ por línea:
 Pulsa cualquier línea para abrir la ficha del curso, con toda su información. Si
 todavía no has hecho ningún curso, la lista te dirá que aún no hay datos de cursos.
 
-!!! note "Aquí solo salen los cursos con tu asistencia confirmada"
+!!! info "Aquí solo salen los cursos con tu asistencia confirmada"
     Cuando te apuntas, tu plaza queda registrada pero pendiente de confirmar: la
     confirma quien imparte el curso. Hasta entonces el curso no aparece en esta lista.
     Para comprobar que estás apuntado, abre el curso en el catálogo: verás el botón
@@ -38,7 +38,7 @@ suma a las del resto de asistentes, que se ven en el bloque **Reseñas** de la m
 Algunos cursos llevan asociado un certificado. Cuando quien imparte el curso te evalúa y
 apruebas, el certificado se añade solo a tu ficha: no tienes que pedirlo.
 
-!!! note "Si no encuentras esta opción"
+!!! info "Si no encuentras esta opción"
     Que los cursos lleven certificado depende de la configuración que haya hecho tu
     empresa. Si no la ves, pregunta a Recursos Humanos.
 

@@ -28,7 +28,7 @@ Dentro de un documento tienes su texto y, además:
 Arriba tienes el recorrido que has seguido (**Documentos > categoría > carpeta >
 documento**) para volver atrás sin perderte.
 
-!!! note "No todos veis los mismos documentos"
+!!! info "No todos veis los mismos documentos"
     Un documento puede estar dirigido a toda la empresa o solo a determinadas
     personas, equipos, centros de trabajo o áreas. Tú solo ves los que te
     corresponden. Si echas en falta alguno, pregunta a Recursos Humanos.
