@@ -37,7 +37,7 @@ El sistema mira tu último fichaje y decide solo si este es de entrada o de sali
 el último fue una salida, este será una entrada, y al revés. Verás un saludo de
 bienvenida o de despedida como confirmación.
 
-<!-- TODO:captura: pantalla del Punto de acceso con el teclado numérico y el campo de código -->
+<!-- TODO:captura: fichar-punto-de-acceso.png · pantalla del Punto de acceso con el teclado numérico y el campo de código -->
 
 Si prefieres fichar desde tu puesto, puedes hacerlo desde la pantalla de inicio.
 
@@ -51,7 +51,7 @@ el botón de fichaje.
 Entra en Sebastian HR desde tu móvil y ficha igual que en remoto, desde la **pantalla
 de inicio**.
 
-<!-- TODO:captura: botón de fichaje de la pantalla de inicio -->
+<!-- TODO:captura: fichar-boton-fichaje-inicio.png · botón de fichaje de la pantalla de inicio -->
 
 !!! info "Si el sistema no te deja fichar"
     Tu empresa puede exigir algunas condiciones para aceptar un fichaje, como tener

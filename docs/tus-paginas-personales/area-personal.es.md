@@ -31,7 +31,7 @@ Cada línea te muestra el nombre del documento, la fecha en la que se subió y l
 en la que está. Si todavía no tienes ninguno, verás el aviso *No se encontraron
 documentos personales*.
 
-<!-- TODO:captura: bloque Mis documentos del Área personal, con las carpetas y su contador arriba y varias líneas de documento con los botones de ver y descargar -->
+<!-- TODO:captura: area-personal-mis-documentos.png · bloque Mis documentos del Área personal, con las carpetas y su contador arriba y varias líneas de documento con los botones de ver y descargar -->
 
 !!! info "Los documentos los publica Recursos Humanos"
     Tú los consultas y te los descargas, pero aquí no puedes subir ni borrar nada. Si
@@ -80,7 +80,7 @@ Para registrarlas o cambiar tu nivel:
 
 Cada nivel que pulsas se guarda al momento: no hay botón de guardar.
 
-<!-- TODO:captura: panel de edición de Habilidades, con la lista de habilidades, los cinco círculos de nivel y la cruz roja para quitar una -->
+<!-- TODO:captura: area-personal-habilidades.png · panel de edición de Habilidades, con la lista de habilidades, los cinco círculos de nivel y la cruz roja para quitar una -->
 
 !!! info "Si no te aparece ninguna habilidad"
     La lista de habilidades y sus categorías las crea tu empresa. Si todavía no ha
@@ -96,7 +96,7 @@ Cada día muestra el nombre de tu turno y su franja horaria, y los días que no 
 trabajo muestran el motivo: festivo, vacaciones, baja, ausencia o permiso. Tus días
 libres se quedan en blanco. Puedes moverte a meses anteriores o posteriores.
 
-<!-- TODO:captura: calendario mensual del Área personal con varios turnos, un festivo y unos días de vacaciones -->
+<!-- TODO:captura: area-personal-calendario-mensual.png · calendario mensual del Área personal con varios turnos, un festivo y unos días de vacaciones -->
 
 Qué significa cada código, de dónde sale el turno que tienes asignado y en qué se
 diferencian tus horas planificadas, teóricas y trabajadas lo tienes explicado en
@@ -123,7 +123,7 @@ rellenado, unas notas de **Mejora**. Las tuyas están en
   respuesta que se ha dado a cada una, que puede ser un sí/no o una puntuación.
 - Si todavía no tienes ninguna, el listado te lo indicará.
 
-<!-- TODO:captura: detalle de una evaluación de desempeño con el tipo, la fecha, el resultado, Evaluado por y las preguntas con sus respuestas -->
+<!-- TODO:captura: area-personal-evaluacion-desempeno.png · detalle de una evaluación de desempeño con el tipo, la fecha, el resultado, Evaluado por y las preguntas con sus respuestas -->
 
 !!! info "Las evaluaciones no las rellenas tú"
     Tú las consultas: las cumplimenta quien te evalúa. Las preguntas y los tipos de

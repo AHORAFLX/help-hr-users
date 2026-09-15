@@ -28,7 +28,7 @@ tarjeta por cada día de la semana en curso. En cada tarjeta ves:
 El día de hoy aparece marcado. Y si un día es festivo, vacaciones, baja o ausencia, en
 lugar de las horas verás el motivo.
 
-<!-- TODO:captura: bloque Planificación de la semana de la pantalla de inicio, con una tarjeta por día y el día de hoy marcado -->
+<!-- TODO:captura: mi-planificacion-planificacion-semana.png · bloque Planificación de la semana de la pantalla de inicio, con una tarjeta por día y el día de hoy marcado -->
 
 !!! tip "Atajo a tus fichajes"
     Pulsa la tarjeta de un día ya pasado y se abre directamente el detalle de tus
@@ -41,7 +41,7 @@ Entra en **Área personal**: en el centro tienes un **calendario mensual** con t
 planificación. Cada día muestra el nombre del turno y la franja horaria. Puedes moverte por los meses para consultar meses
 anteriores o siguientes.
 
-<!-- TODO:captura: calendario mensual de planificación del Área personal, con varios turnos y algún día de vacaciones -->
+<!-- TODO:captura: mi-planificacion-calendario-mensual.png · calendario mensual de planificación del Área personal, con varios turnos y algún día de vacaciones -->
 
 Los días que no son de trabajo aparecen con un código en lugar del turno:
 

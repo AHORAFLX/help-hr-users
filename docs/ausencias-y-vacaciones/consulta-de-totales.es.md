@@ -17,7 +17,7 @@ Para el detalle completo, desde el mismo calendario, pulsa
 año que tengas abierto en el calendario, así que cambia de año si quieres consultar
 otro.
 
-<!-- TODO:captura: resumen del total de vacaciones con los bloques de Vacaciones, Ausencias y Detalle -->
+<!-- TODO:captura: consulta-de-totales-resumen-total-vacaciones.png · resumen del total de vacaciones con los bloques de Vacaciones, Ausencias y Detalle -->
 
 En el bloque **Vacaciones** tienes tus cuatro cifras:
 

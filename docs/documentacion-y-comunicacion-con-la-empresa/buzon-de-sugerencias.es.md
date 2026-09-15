@@ -22,7 +22,7 @@ abrir una instancia.
    **Sugerencia anónima**.
 5. Guarda.
 
-<!-- TODO:captura: formulario de nueva sugerencia con el Tipo, el interruptor Público y el de Sugerencia anónima -->
+<!-- TODO:captura: buzon-de-sugerencias-formulario-nueva-sugerencia.png · formulario de nueva sugerencia con el Tipo, el interruptor Público y el de Sugerencia anónima -->
 
 Al guardarla, a Recursos Humanos le llega un aviso y un correo con tu sugerencia.
 

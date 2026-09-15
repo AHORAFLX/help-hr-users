@@ -36,7 +36,7 @@ enviar una [instancia](../instancias-y-solicitudes/solicitud-seguimiento-y-valid
     tú no editas tus fichajes, los solicitas. Lo tienes paso a paso en
     [Consulta y correcciones](../fichajes/consulta-y-correcciones.md#como-reportocorrijo-un-fichaje-que-quedo-mal-registrado-falta-salida-hora-erronea).
 
-<!-- TODO:captura: cabecera de la pantalla de inicio con el saludo y las tarjetas Mis instancias y Vacaciones y ausencias, con el botón + desplegado -->
+<!-- TODO:captura: home-cabecera-saludo-tarjetas.png · cabecera de la pantalla de inicio con el saludo y las tarjetas Mis instancias y Vacaciones y ausencias, con el botón + desplegado -->
 
 Pulsando los contadores llegas directo al listado que hay detrás.
 
@@ -100,7 +100,7 @@ quedarte solo con lo que te interese:
 | **Salud** | Las [convocatorias de revisión médica](../vigilancia-de-la-salud/mis-vigilancias-de-salud.md) abiertas o a las que te han convocado. |
 | **Sugerencias** | Las [sugerencias](../documentacion-y-comunicacion-con-la-empresa/buzon-de-sugerencias.md#quien-puede-crear-una-sugerencia-y-para-que-se-usan) públicas de tus compañeros, durante sus dos primeras semanas. |
 
-<!-- TODO:captura: tablón de la pantalla de inicio con las píldoras de filtro y varias publicaciones de tipos distintos -->
+<!-- TODO:captura: home-tablon-anuncios.png · tablón de la pantalla de inicio con las píldoras de filtro y varias publicaciones de tipos distintos -->
 
 ### Qué puedes hacer sin salir del tablón
 

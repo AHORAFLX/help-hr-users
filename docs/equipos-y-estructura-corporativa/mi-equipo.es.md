@@ -13,7 +13,7 @@ parte, con su nombre, el número de personas que lo componen, la lista de esas p
 abajo, **Creado por**. Si el equipo es **Privado**, junto al nombre aparece un icono de
 ojo tachado.
 
-<!-- TODO:captura: listado de Equipos del Área personal, con una tarjeta que muestre el nombre, el número de miembros y la lista de personas -->
+<!-- TODO:captura: mi-equipo-listado-equipos.png · listado de Equipos del Área personal, con una tarjeta que muestre el nombre, el número de miembros y la lista de personas -->
 
 Solo aparecen tus equipos: aquellos en los que estás y los que hayas creado tú. Con los
 filtros de la lista cambias entre **Equipos activos**, que es lo que ves de entrada, y

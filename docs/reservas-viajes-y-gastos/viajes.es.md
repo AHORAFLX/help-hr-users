@@ -21,7 +21,7 @@ con esa fecha ya puesta.
 6. Usa **Comentarios** para el resto de la información del viaje.
 7. Pulsa el botón de solicitud.
 
-<!-- TODO:captura: formulario de solicitud de viaje con las fechas y las tres casillas de Transporte, Hotel y Coche de alquiler -->
+<!-- TODO:captura: viajes-formulario-solicitud-viaje.png · formulario de solicitud de viaje con las fechas y las tres casillas de Transporte, Hotel y Coche de alquiler -->
 
 !!! info "No puedes tener dos viajes solapados"
     Si ya tienes un viaje que pisa esas fechas, la solicitud no se guarda. Y la fecha

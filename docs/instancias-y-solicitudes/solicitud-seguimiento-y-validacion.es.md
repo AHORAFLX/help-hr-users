@@ -31,7 +31,7 @@ Para enviar una solicitud a Recursos Humanos:
 5. Escribe un **Comentario** explicando qué necesitas. Es obligatorio.
 6. Pulsa **Enviar petición**.
 
-<!-- TODO:captura: menú desplegable del botón + de la pantalla de inicio con las opciones de nueva petición -->
+<!-- TODO:captura: solicitud-seguimiento-y-validacion-menu-nueva-peticion.png · menú desplegable del botón + de la pantalla de inicio con las opciones de nueva petición -->
 
 !!! info "Las opciones que ves dependen de tu empresa"
     **Nueva solicitud** solo aparece si tu empresa ha definido tipos de solicitud, y
@@ -53,7 +53,7 @@ con el tipo, la fecha y una etiqueta de color con su estado:
 | **Aprobada** | Ha pasado todos los pasos de aprobación y el cambio ya se ha aplicado. |
 | **Denegada** | Alguien la ha rechazado. El proceso se para ahí. |
 
-<!-- TODO:captura: listado de Instancias del empleado con las etiquetas de estado en color -->
+<!-- TODO:captura: solicitud-seguimiento-y-validacion-listado-instancias.png · listado de Instancias del empleado con las etiquetas de estado en color -->
 
 Cada fila resume además lo que pediste, así que puedes localizar una petición sin
 abrirla. Para verla entera, **pulsa la fila**: se abre un panel lateral con el detalle

@@ -16,7 +16,7 @@ por línea:
 | **Clasificación** | La carpeta y la categoría del catálogo en las que está. |
 | **Estado** | El estado del curso: **Activo**, **Cerrado** o **Cancelado**. |
 
-<!-- TODO:captura: listado de Cursos del Área personal, con varias líneas y las etiquetas de estado en color -->
+<!-- TODO:captura: cursos-y-certificaciones-listado-cursos.png · listado de Cursos del Área personal, con varias líneas y las etiquetas de estado en color -->
 
 Pulsa cualquier línea para abrir la ficha del curso, con toda su información. Si
 todavía no has hecho ningún curso, la lista te dirá que aún no hay datos de cursos.
@@ -57,7 +57,7 @@ Busca el curso en el catálogo, ábrelo y pulsa **Apúntate**.
 3. Pulsa el curso para abrir su ficha.
 4. Pulsa **Apúntate** y confirma.
 
-<!-- TODO:captura: ficha de un curso con el botón Apúntate resaltado y el bloque de Inscritos a la derecha -->
+<!-- TODO:captura: cursos-y-certificaciones-ficha-curso.png · ficha de un curso con el botón Apúntate resaltado y el bloque de Inscritos a la derecha -->
 
 !!! warning "Si el curso está completo no llegas a apuntarte"
     Cada curso tiene un número máximo de inscritos. Antes de pulsar, mira el bloque

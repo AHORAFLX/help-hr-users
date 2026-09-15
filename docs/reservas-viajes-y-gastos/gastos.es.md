@@ -25,7 +25,7 @@ parte y después le añades las líneas.
    si tienes **Factura**.
 6. Guarda la rejilla.
 
-<!-- TODO:captura: detalle de un parte de gastos con la cabecera arriba, las líneas debajo y el botón Editar líneas -->
+<!-- TODO:captura: gastos-detalle-parte-gastos.png · detalle de un parte de gastos con la cabecera arriba, las líneas debajo y el botón Editar líneas -->
 
 Los tipos de gasto salen del catálogo que tenga montado tu empresa: comida,
 kilómetros, peajes, aparcamiento, alojamiento, etc. Algunos ya llevan un importe por

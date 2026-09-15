@@ -26,7 +26,7 @@ Verás el calendario del año con tus días ya registrados. Para pedir días nue
 5. Escribe la **Razón** de la petición. Es obligatoria.
 6. Envía la solicitud.
 
-<!-- TODO:captura: formulario Nuevas vacaciones o ausencia con los campos de tipo, fechas y razón -->
+<!-- TODO:captura: solicitud-y-cancelacion-formulario-nuevas-vacaciones.png · formulario Nuevas vacaciones o ausencia con los campos de tipo, fechas y razón -->
 
 Tus días quedan en el calendario como **Pendiente** hasta que quien corresponda los
 apruebe. Cada petición genera una instancia, así que puedes seguir su estado igual que
@@ -48,7 +48,7 @@ empresa y los cuatro estados: **Aceptado**, **Pendiente**, **Denegado** y
 Los fines de semana y los festivos de tu centro de trabajo salen resaltados en otro
 color, así que puedes contar los días laborables antes de pedirlos.
 
-<!-- TODO:captura: calendario anual de Ausencias y vacaciones con la leyenda desplegada -->
+<!-- TODO:captura: solicitud-y-cancelacion-calendario-leyenda.png · calendario anual de Ausencias y vacaciones con la leyenda desplegada -->
 
 !!! warning "Hay peticiones que no se registran"
     Si al enviarla ves un aviso en vez de la confirmación, la solicitud no se ha
@@ -74,7 +74,7 @@ anulación**:
    concretos en **Vacaciones/Ausencias**.
 5. Explica el motivo en **Comentarios** y envía la petición.
 
-<!-- TODO:captura: formulario Cancelar vacaciones/ausencias con el interruptor de todos los días entre fechas -->
+<!-- TODO:captura: solicitud-y-cancelacion-formulario-cancelar-vacaciones.png · formulario Cancelar vacaciones/ausencias con el interruptor de todos los días entre fechas -->
 
 Es una solicitud como las demás: tiene que aprobarla quien corresponda. Cuando se
 aprueba, esos días pasan a **Cancelado** en tu calendario y vuelven a tu saldo
@@ -100,7 +100,7 @@ Con una sola subida quedan adjuntos a **todos los días de esa misma petición**
 falta repetirlo día a día. El contador **Documentos** del mismo panel te dice cuántos
 hay adjuntos y te los abre para consultarlos.
 
-<!-- TODO:captura: panel de detalle de un día de ausencia con la opción Subir documentos y el contador Documentos -->
+<!-- TODO:captura: solicitud-y-cancelacion-subir-documentos-ausencia.png · panel de detalle de un día de ausencia con la opción Subir documentos y el contador Documentos -->
 
 <!-- PENDIENTE: el formulario de nueva ausencia incluye un interruptor "No Contribución". ¿Lo ve y lo usa el empleado, o es un campo que solo debería tocar Recursos Humanos? -->
 

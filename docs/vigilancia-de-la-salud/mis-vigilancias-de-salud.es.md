@@ -18,7 +18,7 @@ Busca la convocatoria en **Vigilancia de la salud**, ábrela y pulsa **Inscribir
    la lista de quién se ha apuntado ya.
 4. Pulsa **Inscribirse** y confirma.
 
-<!-- TODO:captura: listado de Vigilancia de la salud con varias tarjetas, una Activa con el contador de plazas y otra Cerrada -->
+<!-- TODO:captura: mis-vigilancias-de-salud-listado-vigilancia-salud.png · listado de Vigilancia de la salud con varias tarjetas, una Activa con el contador de plazas y otra Cerrada -->
 
 Al confirmar quedas apuntado y la convocatoria pasa a tu lista de
 **Área personal > Vigilancia sanitaria**.
@@ -59,7 +59,7 @@ Ve a **Área personal > Vigilancia sanitaria**. Ahí tienes todas las convocator
 que estás o has estado, de la más reciente a la más antigua, con tres datos por línea:
 la vigilancia, su fecha y tu resultado.
 
-<!-- TODO:captura: listado de Vigilancia sanitaria del Área personal, con varias líneas y las etiquetas de resultado en color -->
+<!-- TODO:captura: mis-vigilancias-de-salud-listado-vigilancia-sanitaria.png · listado de Vigilancia sanitaria del Área personal, con varias líneas y las etiquetas de resultado en color -->
 
 El resultado puede ser uno de estos cuatro:
 
