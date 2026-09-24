@@ -16,7 +16,7 @@ Los documentos están organizados en **categorías** y, dentro de cada una, en
 documentos que tienen dentro. Pulsa una carpeta para ver sus documentos y pulsa un
 documento para abrirlo.
 
-<!-- TODO:captura: documentacion-listado-documentacion.png · listado de Documentación con las categorías, sus carpetas y el número de documentos de cada una -->
+![Listado de Documentación con las categorías, sus carpetas y el número de documentos de cada una](../docs_assets/help-images/documentacion-listado-documentacion.png)
 
 Dentro de un documento tienes su texto y, además:
 
@@ -44,8 +44,6 @@ que te ha llegado y lo has leído. Para dejarla:
 1. Abre el documento.
 2. Pulsa **Confirmar entrega** en la barra de botones.
 
-<!-- TODO:captura: documentacion-confirmar-documento.png · documento de entrega obligatoria abierto, con el botón Confirmar entrega resaltado -->
-
 Con ese botón confirmas la entrega y la lectura del documento **y de todos los
 archivos que lleva vinculados**, así que ábrelos antes de confirmar.
 
@@ -55,6 +53,8 @@ archivos que lleva vinculados**, así que ábrelos antes de confirmar.
 
 Los que tienes pendientes están agrupados en el acceso **Para confirmar** de la
 pantalla de inicio, con el número de documentos que te quedan.
+
+![Bloque Documentos de la pantalla de inicio con el acceso Para confirmar y su contador de documentos pendientes](../docs_assets/help-images/documentacion-confirmar-documento.png)
 
 ## Artículos relacionados
 

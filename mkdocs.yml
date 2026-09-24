@@ -55,6 +55,7 @@ nav:
   - Reservas, viajes y gastos:
       - Reservas: reservas-viajes-y-gastos/reservas.md
       - Gastos: reservas-viajes-y-gastos/gastos.md
+      - Asistente Tally para gastos: reservas-viajes-y-gastos/asistente-ia-tally-gastos.md
       - Viajes: reservas-viajes-y-gastos/viajes.md
   - Documentación y comunicación con la empresa:
       - Noticias: documentacion-y-comunicacion-con-la-empresa/noticias.md

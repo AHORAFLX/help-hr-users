@@ -19,7 +19,7 @@ Ve a **Área personal > Contratos**. Verás una fila por cada contrato tuyo, emp
 el más reciente. Cada fila te dice de un vistazo el tipo de contrato y su número, la
 empresa, tu porcentaje de jornada, las fechas de inicio y fin, y en qué estado está.
 
-<!-- TODO:captura: mi-contrato-listado-contratos.png · listado de Contratos del Área personal, con el contrato En curso y alguno finalizado -->
+![Listado de Contratos del Área personal con un contrato En curso y otro Finalizado](../docs_assets/help-images/mi-contrato-listado-contratos.png)
 
 El estado es la última columna, **Activo**:
 
@@ -36,7 +36,7 @@ aplica, las fechas del contrato, tu porcentaje de jornada, los días de vacacion
 corresponden al año y un bloque de **Salario** con tu retribución y la cuenta bancaria en
 la que la recibes.
 
-<!-- TODO:captura: mi-contrato-detalle-contrato.png · detalle de un contrato con el bloque de datos laborales y el bloque Salario -->
+![Detalle de un contrato con los datos laborales, el bloque Salario y el historial de datos del contrato](../docs_assets/help-images/mi-contrato-detalle-contrato.png)
 
 Si tu contrato ha cambiado alguna vez —una prórroga, un cambio de condiciones, un
 cierre— tienes el histórico de esos cambios debajo del detalle. Y si Recursos Humanos ha

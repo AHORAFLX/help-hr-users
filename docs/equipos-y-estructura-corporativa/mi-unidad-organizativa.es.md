@@ -44,8 +44,6 @@ responsable, de modo que la cadena de dependencias se lee de arriba abajo.
 Cada ficha te muestra la foto de la persona, su centro de trabajo, su nombre completo, su
 puesto, su departamento y su área. Solo salen las personas activas.
 
-<!-- TODO:captura: mi-unidad-organizativa-estructura-corporativa.png · pantalla de Estructura corporativa con varios niveles del organigrama desplegados -->
-
 Si el organigrama se te queda pequeño, usa el botón de pantalla completa del bloque.
 
 !!! info "Si no encuentras la entrada"

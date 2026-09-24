@@ -23,7 +23,7 @@ Entra en **Reservas**, comprueba en el calendario que el recurso está libre y p
    recurso tiene tipos de reserva definidos, elige el que corresponda en **Tipo**.
 5. Guarda.
 
-<!-- TODO:captura: reservas-calendario-reservas.png · pantalla de Reservas con la pestaña Calendario de reservas y los botones Simple, Múltiple y Eliminar abajo -->
+![Pantalla de Reservas en la pestaña Timeline de reservas, con una línea por recurso y los botones Eliminar, Simple y Múltiple abajo](../docs_assets/help-images/reservas-calendario-reservas.png)
 
 El **Estado** no lo rellenas tú: toda reserva nueva queda como **Activo**.
 

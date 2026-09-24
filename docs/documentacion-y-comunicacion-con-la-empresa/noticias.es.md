@@ -24,7 +24,7 @@ Cada noticia tiene su fecha de publicación y, si procede, una fecha a partir de
 cual deja de mostrarse. Al abrirla ves las **Vistas totales** que acumula y puedes
 dar tu opinión con **Me gusta** o **No me gusta**.
 
-<!-- TODO:captura: noticias-listado-noticias.png · listado de noticias de una categoría, con una noticia sin leer, una ya leída y una destacada -->
+![Categorías de noticias, cada una con sus últimas noticias y el enlace Ver todo; las noticias ya leídas aparecen en azul](../docs_assets/help-images/noticias-listado-noticias.png)
 
 !!! tip "Las que no te puedes perder"
     Hay noticias marcadas como de lectura necesaria. Además de salir en el listado,

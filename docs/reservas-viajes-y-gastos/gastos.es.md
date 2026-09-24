@@ -25,7 +25,7 @@ parte y después le añades las líneas.
    si tienes **Factura**.
 6. Guarda la rejilla.
 
-<!-- TODO:captura: gastos-detalle-parte-gastos.png · detalle de un parte de gastos con la cabecera arriba, las líneas debajo y el botón Editar líneas -->
+![Detalle de un parte de gastos con la cabecera arriba, las líneas de gasto debajo y el botón Editar líneas](../docs_assets/help-images/gastos-detalle-parte-gastos.png)
 
 Los tipos de gasto salen del catálogo que tenga montado tu empresa: comida,
 kilómetros, peajes, aparcamiento, alojamiento, etc. Algunos ya llevan un importe por
@@ -44,9 +44,8 @@ en **Archivos adjuntos**.
 !!! tip "Puedes crear el parte a partir de una foto del ticket"
     Si tu empresa tiene activado el asistente de gastos, el listado de **Gastos** trae
     el botón **Nuevo parte**: le mandas la foto de la factura o le describes el gasto
-    por texto y él crea el parte con sus líneas y engancha la imagen.
-
-<!-- PENDIENTE: el botón "Nuevo parte" con asistente depende de que la empresa tenga configurada la integración. ¿Se documenta o se deja fuera de la ayuda de usuario? -->
+    por texto y él crea el parte con sus líneas y engancha la imagen. Lo tienes
+    explicado en [Asistente Tally para gastos](asistente-ia-tally-gastos.md).
 
 ### En qué estado está tu parte
 
@@ -73,6 +72,8 @@ En la lista solo aparecen tus partes: los gastos de tus compañeros no se ven.
 
 ## Artículos relacionados
 
+- [Asistente Tally para gastos](asistente-ia-tally-gastos.md) — crear el parte
+  mandando una foto del ticket o describiendo el gasto.
 - [Viajes](viajes.md) — cómo solicitar un viaje de empresa.
 - [Reservas](reservas.md) — cómo coger una sala, un vehículo o un equipo.
 - [Solicitud, seguimiento y validación](../instancias-y-solicitudes/solicitud-seguimiento-y-validacion.md) —

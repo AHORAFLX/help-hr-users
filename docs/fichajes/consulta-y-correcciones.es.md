@@ -29,7 +29,7 @@ festivos.
 Entra en **Ver lista mensual** desde el Área Personal. Verás una fila por día del mes con tu turno, tu horario
 previsto, tu horario real, las horas que has trabajado y el porcentaje cumplido.
 
-<!-- TODO:captura: consulta-y-correcciones-jornada-laboral-mensual.png · listado mensual de Jornada laboral con una fila por día y la columna de Progreso -->
+![Listado mensual de Jornada laboral con una fila por día y la columna de Progreso](../docs_assets/help-images/consulta-y-correcciones-jornada-laboral-mensual.png)
 
 - **Progreso**: qué parte de tu horario exigido has cubierto, en porcentaje. Cambia de
   color según lo cerca que estés del total.
@@ -42,7 +42,7 @@ Junto al listado del mes tienes un **resumen mensual** con tus totales acumulado
 horas teóricas del mes, horas registradas en fichajes, el reparto entre **horas
 ordinarias** y **horas extra**.
 
-<!-- TODO:captura: consulta-y-correcciones-resumen-horas.png · resumen mensual con el gráfico de porcentaje cumplido y el desglose de horas -->
+![Fichajes del mes con el bloque Totales a la derecha: horas ordinarias, horas extra, planeado hasta hoy y planificado este mes](../docs_assets/help-images/consulta-y-correcciones-resumen-horas.png)
 
 
 ## ¿Cómo me descargo un informe con mis fichajes?
@@ -65,7 +65,7 @@ Desde el listado del mes, **pulsa la fila del día** que quieras consultar. Se a
 ventana con todos los fichajes de esa jornada, y de cada uno verás la **hora**, si fue
 **Entrada** o **Salida**, y la **Ubicación** desde la que se registró.
 
-<!-- TODO:captura: consulta-y-correcciones-detalle-dia.png · ventana de detalle del día con la lista de fichajes de esa jornada -->
+![Ventana de detalle del día con la lista de fichajes de esa jornada](../docs_assets/help-images/consulta-y-correcciones-detalle-dia.png)
 
 Esta es la vista que te conviene revisar cuando el progreso o la diferencia de un día
 no te cuadran: ahí se ve si falta un fichaje o si alguno tiene la hora mal.
@@ -91,7 +91,7 @@ Para pedirlo:
 4. Escribe un **comentario** explicando el motivo. Es obligatorio.
 5. Envía la solicitud.
 
-<!-- TODO:captura: consulta-y-correcciones-formulario-modificacion.png · formulario de solicitud de modificación de fichaje con el campo de comentario -->
+![Formulario de solicitud de modificación de fichaje con el campo de comentario](../docs_assets/help-images/consulta-y-correcciones-formulario-modificacion.png)
 
 Cuando se apruebe, el cambio se aplica sobre tu fichaje, la jornada se recalcula sola
 y recibirás una notificación con el resultado. Puedes seguir el estado de la solicitud
