@@ -32,8 +32,6 @@ Algunas empresas tienen una sección donde puedes consultar los periodos bloquea
 
 ## ¿Qué pasa si intento solicitar vacaciones en un periodo bloqueado?
 
-![](../docs_assets/images/mNs4xm2QhAHwkQKb8uYlQ7xU0KySfaQaUg.png)
-
 Depende del tipo de bloqueo:
 
 ### Tipo 1: Bloqueo completo

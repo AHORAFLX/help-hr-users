@@ -40,6 +40,7 @@ nav:
   - Ausencias y vacaciones:
       - Solicitud y cancelación: ausencias-y-vacaciones/solicitud-y-cancelacion.md
       - Consulta de totales: ausencias-y-vacaciones/consulta-de-totales.md
+      - Bloqueo de periodos: ausencias-y-vacaciones/bloqueo-periodos-ausencias.md
   - Planificación de turnos:
       - Mi planificación: planificacion-de-turnos/mi-planificacion.md
   - Mis datos laborales:
